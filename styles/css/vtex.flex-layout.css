@@ -458,6 +458,7 @@
 }
 .flexRowContent--InformacionDos .stretchChildrenWidth {
   width: 33% !important;
+  padding: 10px
 }
 .flexCol--imagenesESPECIFIC {
   height: 500px;
@@ -497,6 +498,7 @@
 .flexColChild--InformacionDOCUMENTOSPart2 {
   display: flex;
   flex-wrap: wrap;
+  padding: 10px;
 }
 .flexColChild--iconos-valor {
   width: 70%;
@@ -1011,6 +1013,21 @@
 .flexRowContent--FORMULARIO-REGISTRO {
   padding: 0;
 }
+.flexCol--InformacionDOCUMENTOSIMG1 {
+  height: auto;
+}
+.flexCol--InformacionDOCUMENTOSPart2 {
+  height: auto;
+}
+.flexCol--product1-info-GEN {
+  height: auto;
+}
+.flexCol--product1-info-GEN {
+  height: auto;
+}
+.flexCol--InformacionDOCUMENTOS {
+  height: auto;
+}
 }
 
 
@@ -1109,9 +1126,9 @@
   margin-bottom: 30px;
 }
 .flexColChild--InformacionDOCUMENTOS{
-  padding: 15px 50px;
   display: flex;
   flex-wrap: wrap;
+  height: auto !important;
 }
 .flexRow--reviews-and-ratings{
   margin-left: 100px;
@@ -1119,8 +1136,9 @@
 .flexColChild--reviews-only :global(.vtex-reviews-and-ratings-2-x-graphContent){
   display: none;
 }
-
-
+.flexColChild--InformacionDOCUMENTOSPart2 {
+  height: auto !important;
+}
 
 
 /* * New styles About us Page */

@@ -1,7 +1,7 @@
 .specificationName {
     display: block;
     color: #000131;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 700;
     margin-top: 10px;
 }
@@ -122,6 +122,7 @@
 .specificationValue {
     width: 100%;
     text-align: initial;
+    font-size:13px
 }
 .groupName--especificacionesUno {
     display: none;
@@ -315,3 +316,73 @@
 .specificationValue--EspecificacionesIMG-2[data-specification-name="IMG-especificaciones1"] {display: none;}
 .specificationValue--EspecificacionesIMG-2[data-specification-name="IMG-tecnologia1"] {display: none;}
 .specificationValue--EspecificacionesIMG-2[data-specification-name="IMG-tecnologia2"] {display: none;}
+
+
+
+
+.specificationName----EspecificacionesINFO1[data-specification-name="parte"] {display: none;}
+.specificationValue----EspecificacionesINFO1[data-specification-name="parte"] {display: none;}
+
+
+.specificationValue--EspecificacionesINFO1[data-specification-name="parte"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="parte"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="Tecnologia 1"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="Tecnologia 1"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="Tecnologia 2"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="Tecnologia 2"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="Tecnologia 3"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="Tecnologia 3"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="Garantia"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="Garantia"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="IMG-tecnologia1"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="IMG-tecnologia1"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="IMG-tecnologia2"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="IMG-tecnologia2"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="IMG-especificaciones1"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="IMG-especificaciones1"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="IMG-especificaciones2"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="IMG-especificaciones2"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="Actividad"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="Actividad"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="Caracteristicas"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="Caracteristicas"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="Coleccion"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="Coleccion"] {display: none;}
+
+
+
+.specificationValue--EspecificacionesINFO2[data-specification-name="parte"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="parte"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="Tecnologia 1"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="Tecnologia 1"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="Tecnologia 2"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="Tecnologia 2"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="Tecnologia 3"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="Tecnologia 3"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="Garantia"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="Garantia"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="IMG-tecnologia1"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="IMG-tecnologia1"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="IMG-tecnologia2"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="IMG-tecnologia2"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="IMG-especificaciones1"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="IMG-especificaciones1"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="IMG-especificaciones2"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="IMG-especificaciones2"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="Material"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="Material"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="Color"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="Color"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="Genero"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="Genero"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="Horma"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="Horma"] {display: none;}
+
+
+
+.specificationValue--EspecificacionesIMG-2--last {
+    width: 85%;
+}
+.specificationValue--EspecificacionesIMG-1--last {
+    width: 85%;
+}

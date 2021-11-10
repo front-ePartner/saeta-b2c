@@ -424,7 +424,7 @@
 },
 "product-specification#EspecificacionesINFO1": {
   "children": [
-    "product-specification-text#specificationIMG",
+    "product-specification-text#specificationINFO1",
     "product-specification-values#EspecificacionesINFO1"
   ]
 },
@@ -446,7 +446,7 @@
 },
 "product-specification#EspecificacionesINFO2": {
   "children": [
-    "product-specification-text#specificationIMG",
+    "product-specification-text#specificationINFO2",
     "product-specification-values#EspecificacionesINFO2"
   ]
 },
@@ -459,7 +459,18 @@
     "blockClass": "EspecificacionesINFO2"
   }
 },
-
+"product-specification-text#specificationINFO1": {
+  "props": {
+    "message": "{specificationName}",
+    "blockClass": "especificacionesINFO-TITULO1"
+  }
+},
+"product-specification-text#specificationINFO2": {
+  "props": {
+    "message": "{specificationName}",
+    "blockClass": "especificacionesINFO-TITULO2"
+  }
+},
 
 
 
@@ -1253,8 +1264,16 @@
       },
       "disclosure-content#caracteristicas": {
         "children": [
-          "image#imgTabProducto",
-          "product-specification-group#tap1"
+
+          "product-specification-group#EspecificacionesIMG-1",
+          /* "image#imgEspecifi1",*/
+          "flex-layout.col#product1-info-GEN",
+           /*"product-specification",*/
+           /*"image#imgEspecifi2",*/
+           "product-specification-group#EspecificacionesIMG-2"
+
+
+
         ],
         "props": {
           "tabId": "product1MMM",
@@ -1283,8 +1302,10 @@
       },
       "disclosure-content#beneficios": {
         "children": [
-          "image#imgTabProducto",
-          "product-description"
+          "flex-layout.col#productEsepecificacionIMG1",
+          "flex-layout.col#productEsepecificacion",
+          "flex-layout.col#productEsepecificacion-Part2",
+          "flex-layout.col#productEsepecificacionIMG2"
         ],
         "props":{
           "blockClass": "InformacionBENEFICIOS"
