@@ -195,8 +195,8 @@
 
 .specificationName--especificacionesPE1[data-specification-name="Sub-Categoría"] {display: none;}
 .specificationValue--PE-1[data-specification-name="Sub-Categoría"] {display: none;}
-.specificationName--especificacionesPE1[data-specification-name="Tecnologia 1"] {display: none;}
-.specificationValue--PE-1[data-specification-name="Tecnologia 1"] {display: none;}
+.specificationName--especificacionesPE1[data-specification-name="Tecnologia 2"] {display: none;}
+.specificationValue--PE-1[data-specification-name="Tecnologia 2"] {display: none;}
 .specificationName--especificacionesPE1[data-specification-name="Tecnologia 3"] {display: none;}
 .specificationValue--PE-1[data-specification-name="Tecnologia 3"] {display: none;}
 .specificationName--especificacionesPE1[data-specification-name="Tecnologia 3"] {display: none;}
@@ -231,7 +231,11 @@
 .specificationValue--PE-2[data-specification-name="parte"] {display: none;}
 .specificationName--especificacionesPE1[data-specification-name="Subcategoria"] {display: none;}
 .specificationValue--PE-1[data-specification-name="Subcategoria"] {display: none;}
-
+.specificationName--especificacionesPE1[data-specification-name="Garantia"] {display: none;}
+.specificationValue--PE-1[data-specification-name="Garantia"] {display: none;}
+.specificationName--especificacionesPE1[data-specification-name="Tecnologia 1"] {display: none;}
+.specificationName--especificacionesPE1[data-specification-name="Tecnologia 2"] {display: none;}
+.specificationName--especificacionesPE1[data-specification-name="Tecnologia 3"] {display: none;}
 
 
 
@@ -265,9 +269,11 @@
 .specificationValue--PE-2[data-specification-name="IMG-tecnologia2"] {display: none;}
 .specificationName--especificacionesPE2[data-specification-name="Garantia"] {display: none;}
 .specificationValue--PE-2[data-specification-name="Garantia"] {display: none;}
+.specificationName--especificacionesPE2[data-specification-name="Tecnologia 1"] {display: none;}
+.specificationValue--PE-2[data-specification-name="Tecnologia 1"] {display: none;}
+.specificationValue--PE-2[data-specification-name="Tecnologia 3"] {padding: 15px 0px 0px;}
 .specificationName--especificacionesPE2[data-specification-name="Tecnologia 2"] {display: none;}
-.specificationValue--PE-2[data-specification-name="Tecnologia 2"] {display: none;}
-
+.specificationName--especificacionesPE2[data-specification-name="Tecnologia 3"] {display: none;}
 
 
 
@@ -297,6 +303,8 @@
 .specificationValue--EspecificacionesIMG-1[data-specification-name="IMG-especificaciones2"] {display: none;}
 .specificationValue--EspecificacionesIMG-1[data-specification-name="IMG-tecnologia1"] {display: none;}
 .specificationValue--EspecificacionesIMG-1[data-specification-name="IMG-tecnologia2"] {display: none;}
+.specificationValue--EspecificacionesIMG-1[data-specification-name="Deporte"] {display: none;}
+
 
 
 
@@ -316,7 +324,7 @@
 .specificationValue--EspecificacionesIMG-2[data-specification-name="IMG-especificaciones1"] {display: none;}
 .specificationValue--EspecificacionesIMG-2[data-specification-name="IMG-tecnologia1"] {display: none;}
 .specificationValue--EspecificacionesIMG-2[data-specification-name="IMG-tecnologia2"] {display: none;}
-
+.specificationValue--EspecificacionesIMG-2[data-specification-name="Deporte"] {display: none;}
 
 
 
@@ -359,8 +367,6 @@
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="Tecnologia 2"] {display: none;}
 .specificationValue--EspecificacionesINFO2[data-specification-name="Tecnologia 3"] {display: none;}
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="Tecnologia 3"] {display: none;}
-.specificationValue--EspecificacionesINFO2[data-specification-name="Garantia"] {display: none;}
-.specificationName--especificacionesINFO-TITULO2[data-specification-name="Garantia"] {display: none;}
 .specificationValue--EspecificacionesINFO2[data-specification-name="IMG-tecnologia1"] {display: none;}
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="IMG-tecnologia1"] {display: none;}
 .specificationValue--EspecificacionesINFO2[data-specification-name="IMG-tecnologia2"] {display: none;}
@@ -377,6 +383,10 @@
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="Genero"] {display: none;}
 .specificationValue--EspecificacionesINFO2[data-specification-name="Horma"] {display: none;}
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="Horma"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="Deporte"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="Deporte"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="Subcategoria"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="Subcategoria"] {display: none;}
 
 
 
@@ -386,3 +396,11 @@
 .specificationValue--EspecificacionesIMG-1--last {
     width: 85%;
 }
+
+
+.specificationValue--PE-2[data-specification-name="Tecnologia 3"]::before {content: "";position: relative;color: transparent;width: 0;top: 12px;height: 0;border-left: 0px solid transparent;border-right: 15px solid transparent;border-top: 15px solid #0616c4;border-bottom: 0px solid transparent;}
+.specificationValue--PE-2[data-specification-name="Tecnologia 2"]::before {content: "";position: relative;color: transparent;width: 0;top: 12px;height: 0;border-left: 0px solid transparent;border-right: 15px solid transparent;border-top: 15px solid #0616c4;border-bottom: 0px solid transparent;}
+.specificationValue--PE-2[data-specification-name="Tecnologia 1"]::before {content: "";position: relative;color: transparent;width: 0;top: 12px;height: 0;border-left: 0px solid transparent;border-right: 15px solid transparent;border-top: 15px solid #0616c4;border-bottom: 0px solid transparent;}
+.specificationValue--PE-1[data-specification-name="Tecnologia 1"]::before {content: "";position: relative;color: transparent;width: 0;top: 12px;height: 0;border-left: 0px solid transparent;border-right: 15px solid transparent;border-top: 15px solid #0616c4;border-bottom: 0px solid transparent;}
+.specificationValue--PE-1[data-specification-name="Tecnologia 2"]::before {content: "";position: relative;color: transparent;width: 0;top: 12px;height: 0;border-left: 0px solid transparent;border-right: 15px solid transparent;border-top: 15px solid #0616c4;border-bottom: 0px solid transparent;}
+.specificationValue--PE-1[data-specification-name="Tecnologia 3"]::before {content: "";position: relative;color: transparent;width: 0;top: 12px;height: 0;border-left: 0px solid transparent;border-right: 15px solid transparent;border-top: 15px solid #0616c4;border-bottom: 0px solid transparent;}

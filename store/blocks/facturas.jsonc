@@ -1,7 +1,7 @@
 {
     "store.custom#facturas": {
       "blocks": [
-        "image#imgTopFacturas","image#imgTopFacturasM","iframe.dynamic-src#test-agenda","iframe#facturas"
+        "image#imgTopFacturas","image#imgTopFacturasM","iframe#facturas"
       ]
     },
     "iframe#facturas": {

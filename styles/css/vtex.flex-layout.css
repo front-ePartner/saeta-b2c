@@ -458,7 +458,7 @@
 }
 .flexRowContent--InformacionDos .stretchChildrenWidth {
   width: 33% !important;
-  padding: 10px
+  padding: 0px 10px
 }
 .flexCol--imagenesESPECIFIC {
   height: 500px;

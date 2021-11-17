@@ -46,7 +46,24 @@
       "tab-list.item#1989",
       "tab-list.item#1991",
       "tab-list.item#1992",
-      "tab-list.item#1993"
+      "tab-list.item#1993",
+      "tab-list.item#1997",
+      "tab-list.item#1999",
+      "tab-list.item#2000",
+      "tab-list.item#2001",
+      "tab-list.item#2002",
+      "tab-list.item#2004",
+      "tab-list.item#2007",
+      "tab-list.item#2010",
+      "tab-list.item#2011",
+      "tab-list.item#2012", 
+      "tab-list.item#2013",
+      "tab-list.item#2014", 
+      "tab-list.item#2015",
+      "tab-list.item#2016", 
+      "tab-list.item#2017",
+      "tab-list.item#2018",
+      "tab-list.item#2019"
     ]
   },
   // *  Tab into slider - 1967
@@ -82,6 +99,14 @@
       "label": "1984"
     }
   },
+    // *  Tab into slider - 1984
+    "tab-list.item#1984-2": {
+      "props": {
+        "blocClass": ["Tab__item", "Tab__item--1984"],
+        "tabId": "1984-2",
+        "label": "1984"
+      }
+    },
   // *  Tab into slider - 1987
   "tab-list.item#1987": {
     "props": {
@@ -122,6 +147,160 @@
       "label": "1993"
     }
   },
+  // *  Tab into slider - 1997
+  "tab-list.item#1997": {
+    "props": {
+      "blocClass": ["Tab__item", "Tab__item--1997"],
+      "tabId": "1997",
+      "label": "1997"
+    }
+  },
+    // *  Tab into slider - 1999
+    "tab-list.item#1999": {
+      "props": {
+        "blocClass": ["Tab__item", "Tab__item--1999"],
+        "tabId": "1999",
+        "label": "1999"
+      }
+    },
+      // *  Tab into slider - 2000
+  "tab-list.item#2000": {
+    "props": {
+      "blocClass": ["Tab__item", "Tab__item--2000"],
+      "tabId": "2000",
+      "label": "2000"
+    }
+  },
+    // *  Tab into slider - 2001
+    "tab-list.item#2001": {
+      "props": {
+        "blocClass": ["Tab__item", "Tab__item--2001"],
+        "tabId": "2001",
+        "label": "2001"
+      }
+    },
+      // *  Tab into slider - 2002
+  "tab-list.item#2002": {
+    "props": {
+      "blocClass": ["Tab__item", "Tab__item--2002"],
+      "tabId": "2002",
+      "label": "2002"
+    }
+  },
+    // *  Tab into slider - 2004
+    "tab-list.item#2004": {
+      "props": {
+        "blocClass": ["Tab__item", "Tab__item--2004"],
+        "tabId": "2004",
+        "label": "2004"
+      }
+    },
+      // *  Tab into slider - 2007
+  "tab-list.item#2007": {
+    "props": {
+      "blocClass": ["Tab__item", "Tab__item--2007"],
+      "tabId": "2007",
+      "label": "2007"
+    }
+  },
+    // *  Tab into slider - 2010
+    "tab-list.item#2010": {
+      "props": {
+        "blocClass": ["Tab__item", "Tab__item--2010"],
+        "tabId": "2010",
+        "label": "2010"
+      }
+    },
+      // *  Tab into slider - 2011
+  "tab-list.item#2011": {
+    "props": {
+      "blocClass": ["Tab__item", "Tab__item--2011"],
+      "tabId": "2011",
+      "label": "2011"
+    }
+  },
+
+        // *  Tab into slider - 2012
+        "tab-list.item#2012": {
+          "props": {
+            "blocClass": ["Tab__item", "Tab__item--2012"],
+            "tabId": "2012",
+            "label": "2012"
+          }
+        },
+
+              // *  Tab into slider - 2013
+  "tab-list.item#2013": {
+    "props": {
+      "blocClass": ["Tab__item", "Tab__item--2013"],
+      "tabId": "2013",
+      "label": "2013"
+    }
+  },
+        // *  Tab into slider - 2014
+        "tab-list.item#2014": {
+          "props": {
+            "blocClass": ["Tab__item", "Tab__item--2014"],
+            "tabId": "2014",
+            "label": "2014"
+          }
+        },
+
+              // *  Tab into slider - 2015
+  "tab-list.item#2015": {
+    "props": {
+      "blocClass": ["Tab__item", "Tab__item--2015"],
+      "tabId": "2015",
+      "label": "2015"
+    }
+  },
+              // *  Tab into slider - 2016
+              "tab-list.item#2016": {
+                "props": {
+                  "blocClass": ["Tab__item", "Tab__item--2016"],
+                  "tabId": "2016",
+                  "label": "2016"
+                }
+              },
+                            // *  Tab into slider - 2017
+  "tab-list.item#2017": {
+    "props": {
+      "blocClass": ["Tab__item", "Tab__item--2017"],
+      "tabId": "2017",
+      "label": "2017"
+    }
+  },
+                // *  Tab into slider - 2018
+                "tab-list.item#2018": {
+                  "props": {
+                    "blocClass": ["Tab__item", "Tab__item--2018"],
+                    "tabId": "2018",
+                    "label": "2018"
+                  }
+                },
+
+                // *  Tab into slider - 2019
+                "tab-list.item#2019": {
+                  "props": {
+                    "blocClass": ["Tab__item", "Tab__item--2019"],
+                    "tabId": "2019",
+                    "label": "2019"
+                  }
+                },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   // * Tabs content
   "tab-content#history-data": {
     "props": {
@@ -132,11 +311,29 @@
       "tab-content.item#1982",
       "tab-content.item#1983",
       "tab-content.item#1984",
+      "tab-content.item#1984-2",
       "tab-content.item#1987",
       "tab-content.item#1989",
       "tab-content.item#1991",
       "tab-content.item#1992",
-      "tab-content.item#1993"
+      "tab-content.item#1993",
+      "tab-content.item#1997",
+      "tab-content.item#1999",
+      "tab-content.item#2000",
+      "tab-content.item#2001",
+      "tab-content.item#2002",
+      "tab-content.item#2004",
+      "tab-content.item#2007",
+      "tab-content.item#2010",
+      "tab-content.item#2011",
+      "tab-content.item#2012", 
+      "tab-content.item#2013",
+      "tab-content.item#2014", 
+      "tab-content.item#2015",
+      "tab-content.item#2016", 
+      "tab-content.item#2017",
+      "tab-content.item#2018",
+      "tab-content.item#2019"
     ]
   },
   // * Tab content 1967
@@ -153,8 +350,8 @@
       "isFullModeStyle": false,
       "textPosition": "left",
       "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "LA IDEA 1967",
-      "subhead": "Saeta nacio gracias al ánimo emprededor de un colombiano que soño con hacer una empresa orgullo de un país.",
+      "headline": "La idea",
+      "subhead": "Saeta nació gracias al ánimo emprendedor de un colombiano que soñó con hacer una empresa orgullo de un país.",
       "textAlignment": "center"
     }
   },
@@ -172,8 +369,8 @@
       "isFullModeStyle": false,
       "textPosition": "left",
       "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "LA IDEA 1982",
-      "subhead": "Saeta nacio gracias al ánimo emprededor de un colombiano que soño con hacer una empresa orgullo de un país.",
+      "headline": "La acción",
+      "subhead": "Con una maquina plana y una fileteadora Saeta se vuelve un sueño hecho realidad y nace en Colombia una empresa de ropa deportiva de alta calidad. Saeta entra al mercado compitiendo con una tela innovadora e ideal para todo deportista: suave al tacto, brillante, durable y fresca. http://www.eltiempo.com/archivo/documento/CMS-13119294",
       "textAlignment": "center"
     }
   },
@@ -191,8 +388,8 @@
       "isFullModeStyle": false,
       "textPosition": "left",
       "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "LA IDEA 1983",
-      "subhead": "Saeta nacio gracias al ánimo emprededor de un colombiano que soño con hacer una empresa orgullo de un país.",
+      "headline": "Saeta viste a Independiente Santa Fe",
+      "subhead": "Saeta tiene el orgullo de vestir a “Santa Fe” y por primera vez en Colombia el logo de una marca deportiva es visible en la camiseta de un equipo de fútbol profesional. Así, la marca se vuelve reconocida al salir en prensa.",
       "textAlignment": "center"
     }
   },
@@ -202,7 +399,14 @@
       "blockClass": ["Tab__content", "Tab__content--1984"],
       "tabId": "1984"
     },
-    "children": ["info-card#card-1984"]
+    "children": ["info-card#card-1984","info-card#card-1984-2"]
+  },
+  "tab-content.item#1984-2": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--1984"],
+      "tabId": "1984-2"
+    },
+    "children": ["info-card#card-1984-2"]
   },
   "info-card#card-1984": {
     "props": {
@@ -210,8 +414,19 @@
       "isFullModeStyle": false,
       "textPosition": "left",
       "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "LA IDEA 1984",
-      "subhead": "Saeta nacio gracias al ánimo emprededor de un colombiano que soño con hacer una empresa orgullo de un país.",
+      "headline": "Nace formalmente SAETA",
+      "subhead": "SAETA se registra formalmente ante las autoridades mercantiles Colombianas.",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-1984-2": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--1984"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Nace el Club Saeta Futsal",
+      "subhead": "Nace el equipo de microfútbol Saeta, que da la oportunidad a niños y jóvenes de convertirse en jugadores profesionales de un deporte que no contaba con mucho patrocinio.",
       "textAlignment": "center"
     }
   },
@@ -229,8 +444,8 @@
       "isFullModeStyle": false,
       "textPosition": "left",
       "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "LA IDEA 1987",
-      "subhead": "Saeta nacio gracias al ánimo emprededor de un colombiano que soño con hacer una empresa orgullo de un país.",
+      "headline": "Con Saeta, Santa Fe es tercero.",
+      "subhead": "Santa Fe, vestido por SAETA, consigue el tercer lugar del campeonato profesional de Fútbol Colombiano.",
       "textAlignment": "center"
     }
   },
@@ -248,8 +463,8 @@
       "isFullModeStyle": false,
       "textPosition": "left",
       "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "LA IDEA 1989",
-      "subhead": "Saeta nacio gracias al ánimo emprededor de un colombiano que soño con hacer una empresa orgullo de un país.",
+      "headline": "Saeta se posiciona en el fútbol Colombiano",
+      "subhead": "SAETA viste a 13 equipos profesionales del fútbol Colombiano entre los que se destacan El Cúcuta Deportivo, Junior de Barranquilla, Unión Magdalena, Cali, Independiente Santa Fe, entre otros, convirtiéndose en el principal proveedor de ropa deportiva para fútbol a nivel nacional.",
       "textAlignment": "center"
     }
   },
@@ -259,7 +474,7 @@
       "blockClass": ["Tab__content", "Tab__content--1991"],
       "tabId": "1991"
     },
-    "children": ["info-card#card-1991"]
+    "children": ["info-card#card-1991","info-card#card-1991-2"]
   },
   "info-card#card-1991": {
     "props": {
@@ -267,8 +482,19 @@
       "isFullModeStyle": false,
       "textPosition": "left",
       "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "LA IDEA 1991",
-      "subhead": "Saeta nacio gracias al ánimo emprededor de un colombiano que soño con hacer una empresa orgullo de un país.",
+      "headline": "Saeta exporta a Suecia",
+      "subhead": "Saeta da el primer paso hacia las exportaciones y con mucho éxito exporta sus productos a Suecia.",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-1991-2": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--1991"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Saeta viste a Millonarios",
+      "subhead": "Gracias al crecimiento rápido de la empresa y al ser reconocida como una marca de prestigio entre los deportistas, el Club Deportivo Los Millonarios busca ser vestido por SAETA.",
       "textAlignment": "center"
     }
   },
@@ -278,7 +504,7 @@
       "blockClass": ["Tab__content", "Tab__content--1992"],
       "tabId": "1992"
     },
-    "children": ["info-card#card-1992"]
+    "children": ["info-card#card-1992","info-card#card-1992-2"]
   },
   "info-card#card-1992": {
     "props": {
@@ -286,12 +512,360 @@
       "isFullModeStyle": false,
       "textPosition": "left",
       "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "LA IDEA 1992",
-      "subhead": "Saeta nacio gracias al ánimo emprededor de un colombiano que soño con hacer una empresa orgullo de un país.",
+      "headline": "Cali es tercero con Saeta",
+      "subhead": "Deportivo Cali consigue el tercer lugar en la Copa Profesional del Fútbol con ropa SAETA y figuras como Miguel Calero y Oscar 'el pajaro' Suarez.",
       "textAlignment": "center"
     }
   },
-  // * Tab content 1993
+  "info-card#card-1992-2": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--1992"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "America de Cali campeón con Saeta",
+      "subhead": "América de Cali consigue su octava estrella usando SAETA con jugadores como Leonel Álvarez y Fredy Rincón.",
+      "textAlignment": "center"
+    }
+  },
+  // * Tab content 1997
+  "tab-content.item#1997": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--1997"],
+      "tabId": "1997"
+    },
+    "children": ["info-card#card-1997","info-card#card-1997-2"]
+  },
+  "info-card#card-1997": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--1997"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Saeta vuelve a Millonarios",
+      "subhead": "Saeta viste nuevamente al Club Deportivo Los Millonarios que va a Copa libertadores. Además, logra así que la hinchada del equipo se una más a la marca capitalina.",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-1997-2": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--1997"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Saeta empieza a trabajar con la Federación Colombiana de Atletismo",
+      "subhead": "Esta alianza hoy en día continua y ha permitido a Saeta mejorar los productos para estar a la altura de las necesidades de los atletas de alto rendimiento colombianos.",
+      "textAlignment": "center"
+    }
+  },
+
+    // * Tab content 1999
+  "tab-content.item#1999": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--1999"],
+      "tabId": "1999"
+    },
+    "children": ["info-card#card-1999"]
+  },
+  "info-card#card-1999": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--1999"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Jhon Pinilla se une a la escuela Saeta Futsal",
+      "subhead": "Jhon Pinilla, figura del microfútbol en Colombia y el mundo, juega el mundial de clubes de futsal con Saeta.",
+      "textAlignment": "center"
+    }
+  },
+
+
+    // * Tab content 2000
+  "tab-content.item#2000": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--2000"],
+      "tabId": "2000"
+    },
+    "children": ["info-card#card-2000"]
+  },
+  "info-card#card-2000": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2000"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Goleador del torneo usa Saeta",
+      "subhead": "Carlos Castro, jugador de Millonarios, se convierte en el goleador de la temporada con indumentaria SAETA.",
+      "textAlignment": "center"
+    }
+  },
+    
+  
+  // * Tab content 2001
+  "tab-content.item#2001": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--2001"],
+      "tabId": "2001"
+    },
+    "children": ["info-card#card-2001","info-card#card-2001-2"]
+  },
+  "info-card#card-2001": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2001"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Saeta llega a una nueva región de Colombia.",
+      "subhead": "Saeta patrocina al Club Deportivo Independiente Medellín, sub campeón del torneo Colombiano, llevando a la marca a ser reconocida en toda la región Antioqueña.",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-2001-2": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2001"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Saeta viste un campeón",
+      "subhead": "Con ropa Saeta, El club Millonarios consigue el título de la Copa-Merconorte tras ganarle en penales a Emelec.",
+      "textAlignment": "center"
+    }
+  },
+
+    // * Tab content 2002
+  "tab-content.item#2002": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--2002"],
+      "tabId": "2002"
+    },
+    "children": ["info-card#card-2002"]
+  },
+  "info-card#card-2002": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2002"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Saeta y Millonarios nuevamente juntos",
+      "subhead": "Por tercera vez, el equipo capitalino Los Millonarios es patrocinado por Saeta, la única empresa patrocinadora del equipo debido al duro momento que atravesaba.",
+      "textAlignment": "center"
+    }
+  },
+
+    // * Tab content 2004
+  "tab-content.item#2004": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--2004"],
+      "tabId": "2004"
+    },
+    "children": ["info-card#card-2004"]
+  },
+  "info-card#card-2004": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2004"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Saeta forma una estrella del Futsal",
+      "subhead": "Angellot Caro, destacado jugador de fútbol sala en Colombia, empieza a formar su carrera de futbolista con el Club Saeta, vistiendo uniformes Saeta.",
+      "textAlignment": "center"
+    }
+  },
+
+    // * Tab content 2007
+  "tab-content.item#2007": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--2007"],
+      "tabId": "2007"
+    },
+    "children": ["info-card#card-2007"]
+  },
+  "info-card#card-2007": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2007"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Un nuevo equipo de Fútbol viste Saeta.",
+      "subhead": "El Junior de Barranquilla viste nuevamente productos Saeta. El Pibe Valderrama actúa como Manager del equipo.",
+      "textAlignment": "center"
+    }
+  },
+
+
+    // * Tab content 2010
+  "tab-content.item#2010": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--2010"],
+      "tabId": "2010"
+    },
+    "children": ["info-card#card-2010"]
+  },
+  "info-card#card-2010": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2010"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Importante equipo de Fútbol Colombiano usa SAETA",
+      "subhead": "SAETA patrocina a otro de los grandes equipos de Colombia, el América de Cali, quienes atravesaban por un mal momento. Saeta es el único patrocinador del equipo durante este año.",
+      "textAlignment": "center"
+    }
+  },
+
+
+    // * Tab content 2011
+  "tab-content.item#2011": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--2011"],
+      "tabId": "2011"
+    },
+    "children": ["info-card#card-2011","info-card#card-2011-2","info-card#card-2011-3","info-card#card-2011-4"]
+  },
+  "info-card#card-2011": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2011"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Saeta patrocina a un equipo en Estados Unidos",
+      "subhead": "En este año Saeta patrocina un equipo del estado de Atlanta U.S.A. Los ATLANTA SILVERBACKS",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-2011-2": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2011"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Colombia campeón del mundial de fútbol de salón usando Saeta",
+      "subhead": "Saeta hace un impacto de marca al patrocinar a COLOMBIA en el X Mundial de Fútbol de Salón, campeones de este Torneo.",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-2011-3": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2011"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Atletas Colombianos en Mundial Atletismo Daegu 2011 visten Saeta",
+      "subhead": "Colombia consigue medalla de Oro en Marcha 20 km con Luis Fernando López y medalla de bronce en Salto triple con Katherin Ibarguen.",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-2011-4": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2011"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Club Saeta Futsal consigue un título en el campeonato local",
+      "subhead": "Saeta queda sub campeón en el campeonato local de microfutbol tras perder en penales contra Bello Innovar.",
+      "textAlignment": "center"
+    }
+  },
+
+
+    // * Tab content 2012
+  "tab-content.item#2012": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--2012"],
+      "tabId": "2012"
+    },
+    "children": ["info-card#card-2012", "info-card#card-2012-1","info-card#card-2012-2"]
+  },
+  "info-card#card-2012": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2012"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Saeta viste a una selección de fútbol",
+      "subhead": "El equipo de futbol de Guyana viste uniformes deportivos Saeta.",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-2012-1": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2012"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Saeta en el Baloncesto Colombiano",
+      "subhead": "Saeta patrocina a Guerreros Bogotá en el campeonato local de Baloncesto, en el cual consiguen en segundo lugar.",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-2012-2": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2012"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Saeta viste a Bogotá en Juegos Nacionales y Paranacionales",
+      "subhead": "Saeta viste por primera vez a los atletas Bogotanos que compiten en Juegos Nacionales. Bogotá queda tercero con 117 medallas de oro.",
+      "textAlignment": "center"
+    }
+  },
+
+
+
+    // * Tab content 2013
+  "tab-content.item#2013": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--2013"],
+      "tabId": "2013"
+    },
+    "children": ["info-card#card-2013"]
+  },
+  "info-card#card-2013": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--1993"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Saeta viste nuevamente una selección de futbol",
+      "subhead": "Saeta patrocina a la Federación de fútbol de Haití con productos de calidad.",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-2013-2": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--1993"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Atletas Colombianos usan Saeta en los Juegos Mundiales de Cali",
+      "subhead": "Saeta patrocina a los deportistas Colombianos en los Juegos Mundiales Cali 2013. Colombia se ratifica como la mejor delegación suramericana de la competencia.",
+      "textAlignment": "center"
+    }
+  },
+
+
+    // * Tab content 2014
+  "tab-content.item#2014": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--2014"],
+      "tabId": "2014"
+    },
+    "children": ["info-card#card-2014"]
+  },
+  "info-card#card-2014": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2014"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Club Saeta Futsal campeón de la Copa de Microfutbol",
+      "subhead": "Saeta Futsal se proclamó campeón del campeonato local de microfutbol Saeta, en un dramático final tras superar en la definición a Independiente Santander.",
+      "textAlignment": "center"
+    }
+  },
+
+
+    // * Tab content 1997
   "tab-content.item#1993": {
     "props": {
       "blockClass": ["Tab__content", "Tab__content--1993"],
@@ -305,9 +879,193 @@
       "isFullModeStyle": false,
       "textPosition": "left",
       "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "LA IDEA 1993",
-      "subhead": "Saeta nacio gracias al ánimo emprededor de un colombiano que soño con hacer una empresa orgullo de un país.",
+      "headline": "America y Saeta",
+      "subhead": "SAETA continua vistiendo al América de Cali. Orlando Pony Maturana anota los históricos 5 goles el 3 de Junio en el partido América: 8 - Magdalena: 1.",
       "textAlignment": "center"
     }
-  }
+  },
+
+
+
+      // * Tab content 2015
+      "tab-content.item#2015": {
+        "props": {
+          "blockClass": ["Tab__content", "Tab__content--2015"],
+          "tabId": "2015"
+        },
+        "children": ["info-card#card-2015"]
+      },
+      "info-card#card-2015": {
+        "props": {
+          "blockClass": ["Tab__card", "Tab__card--2015"],
+          "isFullModeStyle": false,
+          "textPosition": "left",
+          "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+          "headline": "El Club Saeta Futsal ingresa a la Liga Argos Futsal",
+          "subhead": "Tras ser campeones de la Liga Profesional de Microfutbol, el Club Saeta inicia un nuevo camino en la liga Argos de Futsal convirtiendose en un equipo reconocido por la FIFA. En la segunda participación, Saeta consigue llegar a semifinales.",
+          "textAlignment": "center"
+        }
+      },
+      "info-card#card-2015-1": {
+        "props": {
+          "blockClass": ["Tab__card", "Tab__card--2015"],
+          "isFullModeStyle": false,
+          "textPosition": "left",
+          "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+          "headline": "Saeta regresa al Futbol Profesional Colombiano",
+          "subhead": "Saeta regresa al FPC al patrocinar al equipo Bogotáno La equidad y al doblemente glorioso Cúcuta Deportivo.",
+          "textAlignment": "center"
+        }
+      },
+      "info-card#card-2015-2": {
+        "props": {
+          "blockClass": ["Tab__card", "Tab__card--2015"],
+          "isFullModeStyle": false,
+          "textPosition": "left",
+          "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+          "headline": "Saeta viste a las delegaciones de Bogotá y Antioquía en los Juegos Nacionales",
+          "subhead": "Las dos mejores delegaciones de los Juegos Nacionales usan Saeta en los Juegos Nacionales. Antioquía consigue el primer lugar con 130 medallas de oro y Bogotá es segunda con 127 medallas de oro.",
+          "textAlignment": "center"
+        }
+      },
+
+      
+          // * Tab content 2016
+  "tab-content.item#2016": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--2016"],
+      "tabId": "2016"
+    },
+    "children": ["info-card#card-2016"]
+  },
+
+  "info-card#card-2016": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2016"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Guaros de Lara, campeón de la liga de la Americas con ropa SAETA",
+      "subhead": "El equipo de baloncesto Venezolano Guaros de Lara hizo historia de la mano de Saeta, al derrotar 79-84 al Baurú de Brasil proclamándose campeón de la Liga de las Américas.",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-2016-1": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2016"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Haiti va por primera vez a una Copa America usando SAETA",
+      "subhead": "Por primera vez, una marca Colombia viste a una selección en Copa America.",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-2016-2": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2016"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Saeta acompaña al equipo de Colombia en los Paralimpicos Rio 2016",
+      "subhead": "El equipo Colombiano hace una participación histórica, con el patrocinio de Saeta, al conseguir 2 medallas de oro, 4 de plata y 8 de bronce.",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-2016-3": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2016"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Guaros de Lara, campeón de la Copa Intercontinental con ropa SAETA",
+      "subhead": "El quinteto venezolano de baloncesto, Guaros de Lara, conquistó la Copa Intercontinental al vencer al Fraport Skyliners alemán, con marcador de 74-69.",
+      "textAlignment": "center"
+    }
+  },
+
+      // * Tab content 2017
+      "tab-content.item#2017": {
+        "props": {
+          "blockClass": ["Tab__content", "Tab__content--2017"],
+          "tabId": "2017"
+        },
+        "children": ["info-card#card-2017"]
+      },
+      "info-card#card-2017": {
+        "props": {
+          "blockClass": ["Tab__card", "Tab__card--2017"],
+          "isFullModeStyle": false,
+          "textPosition": "left",
+          "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+          "headline": "Guaros ganadores del Premio Gigantes al Mejor Club FIBA 2017",
+          "subhead": "Saeta viste al equipo venezolano de baloncesto Guaros de Lara durante uno de sus mejores años. Los Guaros se titulan Campeones de la Liga Suramericana de Baloncesto, Subcampeones de la Copa Intercontinental, Campeones de la Liga Nacional Bolivariana y son galardonados con el Premio Gigantes al Mejor Club FIBA 2017.",
+          "textAlignment": "center"
+        }
+      },
+
+      
+          // * Tab content 2018
+  "tab-content.item#2018": {
+    "props": {
+      "blockClass": ["Tab__content", "Tab__content--2018"],
+      "tabId": "2018"
+    },
+    "children": ["info-card#card-2018","info-card#card-2018-1","info-card#card-2018-2"]
+  },
+  "info-card#card-2018": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2018"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Saeta viste al Deportivo Pasto",
+      "subhead": "Por segundo año consecutivo Saeta viste al Deportivo Pasto.",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-2018-1": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2018"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Por segunda vez Saeta viste a Valledupar Fútbol Club",
+      "subhead": "Otro grande de los equipos de fútbol colombiano llega una vez más a las canchas vestido por Saeta.",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#card-2018-2": {
+    "props": {
+      "blockClass": ["Tab__card", "Tab__card--2018"],
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "headline": "Después de 20 años regresamos con el Once",
+      "subhead": "Saeta viste nuevamente al equipo de fútbol profesional Once Caldas.",
+      "textAlignment": "center"
+    }
+  },
+
+
+      // * Tab content 2019
+      "tab-content.item#2019": {
+        "props": {
+          "blockClass": ["Tab__content", "Tab__content--2019"],
+          "tabId": "2019"
+        },
+        "children": ["info-card#card-2019"]
+      },
+      "info-card#card-2019": {
+        "props": {
+          "blockClass": ["Tab__card", "Tab__card--2019"],
+          "isFullModeStyle": false,
+          "textPosition": "left",
+          "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+          "headline": "Haiti hace historia con Saeta en la Copa Oro 2019",
+          "subhead": "Haití pasa a la historia de su país con Saeta al vencer a todos los equipos de la fase de grupos (Bermuda, Nicaragua, Costa Rica), a Canadá en cuartos de Final y por primera vez clasificar a las Semifinales del torneo.",
+          "textAlignment": "center"
+        }
+      }
+    
 }

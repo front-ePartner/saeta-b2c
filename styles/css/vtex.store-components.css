@@ -2874,29 +2874,83 @@
   content: 'Noviembre 15, 1967';
 }
 .infoCardHeadline--Tab__card--1982::before {
-  content: 'Noviembre 15, 1982';
+  content: 'Febrero 1, 1982';
 }
 .infoCardHeadline--Tab__card--1983::before {
-  content: 'Noviembre 15, 1983';
+  content: 'Febrero 15, 1983';
 }
 .infoCardHeadline--Tab__card--1984::before {
-  content: 'Noviembre 15, 1984';
+  content: 'Junio 11, 1984';
 }
 .infoCardHeadline--Tab__card--1987::before {
-  content: 'Noviembre 15, 1987';
+  content: 'Diciembre 15, 1987';
 }
 .infoCardHeadline--Tab__card--1989::before {
   content: 'Noviembre 15, 1989';
 }
 .infoCardHeadline--Tab__card--1991::before {
-  content: 'Noviembre 15, 1991';
+  content: 'Enero 1, 1991';
 }
 .infoCardHeadline--Tab__card--1992::before {
-  content: 'Noviembre 15, 1992';
+  content: 'Noviembre 27, 1992';
 }
 .infoCardHeadline--Tab__card--1993::before {
-  content: 'Noviembre 15, 1993';
+  content: 'Junio 3, 1993';
 }
+.infoCardHeadline--Tab__card--1997::before {
+  content: 'Febrero 1, 1997';
+}
+.infoCardHeadline--Tab__card--1999::before {
+  content: 'Junio 17, 1999';
+}
+.infoCardHeadline--Tab__card--2000::before {
+  content: 'Noviembre 27, 2000';
+}
+.infoCardHeadline--Tab__card--2001::before {
+  content: 'Noviembre 20, 2001';
+}
+.infoCardHeadline--Tab__card--2002::before {
+  content: 'Enero 27, 2002';
+}
+.infoCardHeadline--Tab__card--2004::before {
+  content: 'Octubre 27, 2004';
+}
+.infoCardHeadline--Tab__card--2007::before {
+  content: 'Noviembre 27, 2007';
+}
+.infoCardHeadline--Tab__card--2010::before {
+  content: 'Febrero 27, 2010';
+}
+.infoCardHeadline--Tab__card--2011::before {
+  content: 'Febrero 26, 2011';
+}
+.infoCardHeadline--Tab__card--2012::before {
+  content: 'Mayo 28, 2012';
+}
+.infoCardHeadline--Tab__card--2013::before {
+  content: 'Marzo 10, 2013';
+}
+.infoCardHeadline--Tab__card--2014::before {
+  content: 'Noviembre 7, 2014';
+}
+.infoCardHeadline--Tab__card--2015::before {
+  content: 'Febrero 3, 2015';
+}
+.infoCardHeadline--Tab__card--2016::before {
+  content: 'Marzo 12, 2016';
+}
+.infoCardHeadline--Tab__card--2017::before {
+  content: 'Diciembre 15, 2017';
+}
+.infoCardHeadline--Tab__card--2018::before {
+  content: 'Enero 10, 2018';
+}
+.infoCardHeadline--Tab__card--2019::before {
+  content: 'Junio 25, 2019';
+}
+
+
+
 .infoCardSubhead--Tab__card {
   margin-top: 0;
   color: black;
@@ -3168,7 +3222,7 @@
     padding: 0 30px;
   }
   .infoCardHeadline--Tab__card {
-    font-size: 55px;
+    font-size: 44px;
   }
   .infoCardSubhead--Tab__card {
     padding-top: 10px;
