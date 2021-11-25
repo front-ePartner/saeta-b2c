@@ -535,10 +535,10 @@
 .filter__container--genero {
     display: none;
 }
-.filter__container--coleccion {
+.filter__container--parte {
     display: none;
 }
-.filter__container--parte {
+.filter__container--coleccion {
     display: none;
 }
 .filter__container--caracteristicas {

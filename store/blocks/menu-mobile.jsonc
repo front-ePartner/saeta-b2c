@@ -312,37 +312,37 @@
    //--------------------------------DEPTO 1 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO1-CAT1-SUB1":{
        "props": {
-         "text":"[Camisetas](/hombre/camisetas?__device=desktop&initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+         "text":"[Camisetas](/hombre/camisetas?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO1-CAT1-SUB2":{
         "props": {
-          "text":"[BUZOS](/hombre/buzos?__device=desktop&initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+          "text":"[BUZOS](/hombre/buzos/athleisure?initialMap=c,c&initialQuery=hombre/buzos&map=category-1,category-2,actividad&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO1-CAT1-SUB3":{
         "props": {
-          "text":"[Chaquetas](/hombre/chaquetas?__device=desktop&initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+          "text":"[Chaquetas](/hombre/chaquetas?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO1-CAT1-SUB4":{
         "props": {
-          "text":"[Licras de Compresicón](/hombre/licras-de-compresion?__device=desktop&initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+          "text":"[Licras de Compresicón](/hombre/licras-de-compresion?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
        "rich-text#MOBILE-DEPTO1-CAT1-SUB6":{
         "props": {
-          "text":"[Chaquetones](/hombre/chaqueton?_c=hombre&map=c,ft)",
+          "text":"[Chaquetones](/hombre/chaqueton?_c=hombre&map=c,ft&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
        "rich-text#MOBILE-DEPTO1-CAT1-SUB5":{
         "props": {
-          "text":"[Ver Todo](/hombre/arriba?initialMap=c&initialQuery=hombre&map=category-1,parte)",
+          "text":"[Ver Todo](/hombre/arriba?initialMap=c&initialQuery=hombre&map=category-1,parte&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -394,43 +394,43 @@
    //--------------------------------DEPTO 1 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO1-CAT2-SUB1":{
        "props": {
-         "text":"[Pantalonetas](/hombre/pantalonetas?initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+         "text":"[Pantalonetas](/hombre/pantalonetas?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO1-CAT2-SUB2":{
         "props": {
-          "text":"[Bermudas](/hombre/bermuda?_c=hombre&map=c,ft)",
+          "text":"[Bermudas](/hombre/bermuda?_c=hombre&map=c,ft&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO1-CAT2-SUB3":{
         "props": {
-          "text":"[Bicicleteros](/hombre/bicicleteros?initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+          "text":"[Bicicleteros](/hombre/bicicleteros?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO1-CAT2-SUB4":{
         "props": {
-          "text":"[Ropa Interior](/hombre/boxers?initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+          "text":"[Ropa Interior](/hombre/boxers?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
        "rich-text#MOBILE-DEPTO1-CAT2-SUB5":{
         "props": {
-          "text":"[Licras](/hombre/pantalon%20licrado?_c=hombre&map=c,ft)",
+          "text":"[Licras](/hombre/pantalon%20licrado?_c=hombre&map=c,ft&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },   
        "rich-text#MOBILE-DEPTO1-CAT2-SUB7":{
         "props": {
-          "text":"[Pantalones](/hombre/pantalones?initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+          "text":"[Pantalones](/hombre/pantalones?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },       
        "rich-text#MOBILE-DEPTO1-CAT2-SUB6":{
         "props": {
-          "text":"[Ver Todo](/hombre/prendas-de-abajo?initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+          "text":"[Ver Todo](/hombre/prendas-de-abajo?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -480,37 +480,37 @@
    //--------------------------------DEPTO 1 - CAT3 - SUBS
      "rich-text#MOBILE-DEPTO1-CAT3-SUB1":{
        "props": {
-         "text": "[Gorras](/hombre/accesorios/gorras?initialMap=c&initialQuery=hombre&map=category-1,category-2,subcategoria)",
+         "text": "[Gorras](/hombre/accesorios/gorras?initialMap=c&initialQuery=hombre&map=category-1,category-2,subcategoria&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO1-CAT3-SUB2":{
         "props": {
-          "text":"[Maletas](/maletas?initialMap=c&initialQuery=accesorios&map=category-2)",
+          "text":"[Maletas](/maletas?initialMap=c&initialQuery=accesorios&map=category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO1-CAT3-SUB3":{
         "props": {
-          "text":"[Medias](/medias?initialMap=c&initialQuery=accesorios&map=category-2)",
+          "text":"[Medias](/medias?initialMap=c&initialQuery=accesorios&map=category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO1-CAT3-SUB4":{
         "props": {
-          "text":"[Canilleras](/accesorios/canilleras?_c=accesorios&map=c,ft)",
+          "text":"[Canilleras](/accesorios/canilleras?_c=accesorios&map=c,ft&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
        "rich-text#MOBILE-DEPTO1-CAT3-SUB6":{
         "props": {
-          "text":"[Tapabocas](/tapabocas?initialMap=c&initialQuery=accesorios&map=category-2)",
+          "text":"[Tapabocas](/tapabocas?initialMap=c&initialQuery=accesorios&map=category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
        "rich-text#MOBILE-DEPTO1-CAT3-SUB5":{
         "props": {
-          "text":"[Ver Todo](/accesorios/hombre?initialMap=c&initialQuery=hombre&map=category-1,genero)",
+          "text":"[Ver Todo](/accesorios/hombre?initialMap=c&initialQuery=hombre&map=category-1,genero&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -557,7 +557,7 @@
       //--------------------------------DEPTO 1 - CAT3 - SUBS 
      "rich-text#MOBILE-DEPTO1-CAT4-SUB1":{
        "props": {
-         "text":"[Ver Todo](/hombre/zapatos)",
+         "text":"[Ver Todo](/hombre/zapatos?order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
@@ -611,25 +611,25 @@
       //--------------------------------DEPTO 1 - CAT5 - SUBS 
      "rich-text#MOBILE-DEPTO1-CAT5-SUB1":{
        "props": {
-         "text":"[Futbol/Futsal](/hombre/futbol?initialMap=c&initialQuery=hombre&map=category-1,deporte)",
+         "text":"[Futbol/Futsal](/hombre/futbol?initialMap=c&initialQuery=hombre&map=category-1,deporte&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO1-CAT5-SUB2":{
         "props": {
-          "text":"[Ciclismo](/hombre/ciclismo?initialMap=c&initialQuery=hombre&map=category-1,deporte)",
+          "text":"[Ciclismo](/hombre/ciclismo?initialMap=c&initialQuery=hombre&map=category-1,deporte&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO1-CAT5-SUB3":{
         "props": {
-          "text":"[Atletismo](/hombre/atletismo?initialMap=c&initialQuery=hombre&map=category-1,deporte)",
+          "text":"[Atletismo](/hombre/atletismo?initialMap=c&initialQuery=hombre&map=category-1,deporte&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO1-CAT5-SUB4":{
         "props": {
-          "text":"[Fitness](/hombre/fitness?initialMap=c&initialQuery=hombre&map=category-1,deporte)",
+          "text":"[Fitness](/hombre/fitness?initialMap=c&initialQuery=hombre&map=category-1,deporte&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },    
@@ -687,25 +687,25 @@
     //--------------------------------DEPTO 1 - CAT5 - SUBS 
    "rich-text#MOBILE-DEPTO1-CAT6-SUB1":{
      "props": {
-       "text":"[Prendas de arriba](/hombre/arriba/nuevo?initialMap=c&initialQuery=hombre&map=category-1,parte,coleccion)",
+       "text":"[Prendas de arriba](/hombre/arriba/nuevo?initialMap=c&initialQuery=hombre&map=category-1,parte,coleccion&order=OrderByReleaseDateDESC)",
       "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
     }
     },
     "rich-text#MOBILE-DEPTO1-CAT6-SUB2":{
       "props": {
-        "text":"[Prendas de abajo](/hombre/abajo/nuevo?initialMap=c&initialQuery=hombre&map=category-1,parte,coleccion)",
+        "text":"[Prendas de abajo](/hombre/abajo/nuevo?initialMap=c&initialQuery=hombre&map=category-1,parte,coleccion&order=OrderByReleaseDateDESC)",
        "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
      }
      },
      "rich-text#MOBILE-DEPTO1-CAT6-SUB3":{
       "props": {
-        "text":"[Zapatos](/hombre/zapatos?initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+        "text":"[Zapatos](/hombre/zapatos?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
        "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
      }
      },
      "rich-text#MOBILE-DEPTO1-CAT6-SUB4":{
       "props": {
-        "text":"[Accesorios](/accesorios/hombre?initialMap=c&initialQuery=accesorios&map=category-1,genero)",
+        "text":"[Accesorios](/accesorios/hombre?initialMap=c&initialQuery=accesorios&map=category-1,genero&order=OrderByReleaseDateDESC)",
        "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
      }
      },     
@@ -763,31 +763,31 @@
    //--------------------------------DEPTO 2 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO2-CAT1-SUB1":{
        "props": {
-         "text":"[Camisetas](/mujer/camisetas?initialMap=c&initialQuery=mujer&map=category-1,category-2)",
+         "text":"[Camisetas](/mujer/camisetas?initialMap=c&initialQuery=mujer&map=category-1,category-2&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO2-CAT1-SUB2":{
         "props": {
-          "text":"[BUZOS](/mujer/buzos?initialMap=c&initialQuery=mujer&map=category-1,category-2)",
+          "text":"[BUZOS](/mujer/buzos?initialMap=c&initialQuery=mujer&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO2-CAT1-SUB3":{
         "props": {
-          "text":"[Chaquetas](/mujer/chaquetas?initialMap=c&initialQuery=mujer&map=category-1,category-2)",
+          "text":"[Chaquetas](/mujer/chaquetas?initialMap=c&initialQuery=mujer&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO2-CAT1-SUB4":{
         "props": {
-          "text":"[Licras de Compresicón](/mujer/top?_c=mujer&map=c,ft)",
+          "text":"[Licras de Compresicón](/mujer/top?_c=mujer&map=c,ft&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
        "rich-text#MOBILE-DEPTO2-CAT1-SUB5":{
         "props": {
-          "text":"[Ver Todo](/mujer/arriba?initialMap=c&initialQuery=mujer&map=category-1,parte)",
+          "text":"[Ver Todo](/mujer/arriba?initialMap=c&initialQuery=mujer&map=category-1,parte&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -839,43 +839,43 @@
    //--------------------------------DEPTO 1 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO2-CAT2-SUB1":{
        "props": {
-         "text":"[Pantalones](/mujer/pantalones?initialMap=c&initialQuery=mujer&map=category-1,category-2)",
+         "text":"[Pantalones](/mujer/pantalones?initialMap=c&initialQuery=mujer&map=category-1,category-2&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO2-CAT2-SUB2":{
         "props": {
-          "text":"[Shorts](/mujer/shorts?initialMap=c&initialQuery=mujer&map=category-1,subcategoria)",
+          "text":"[Shorts](/mujer/shorts?initialMap=c&initialQuery=mujer&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO2-CAT2-SUB3":{
         "props": {
-          "text":"[leggings](/mujer/leggings?initialMap=c&initialQuery=mujer&map=category-1,subcategoria)",
+          "text":"[leggings](/mujer/leggings?initialMap=c&initialQuery=mujer&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO2-CAT2-SUB4":{
         "props": {
-          "text":"[Ropa Interior](/mujer/shorts?initialMap=c&initialQuery=mujer&map=category-1,subcategoria)",
+          "text":"[Ropa Interior](/mujer/shorts?initialMap=c&initialQuery=mujer&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
        "rich-text#MOBILE-DEPTO2-CAT2-SUB5":{
         "props": {
-          "text":"[Leggings](/mujer/leggings?initialMap=c&initialQuery=mujer&map=category-1,subcategoria)",
+          "text":"[Leggings](/mujer/leggings?initialMap=c&initialQuery=mujer&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },     
        "rich-text#MOBILE-DEPTO2-CAT2-SUB7":{
         "props": {
-          "text":"[Pantalones](/mujer/pantalones?initialMap=c&initialQuery=mujer&map=category-1,category-2)",
+          "text":"[Pantalones](/mujer/pantalones?initialMap=c&initialQuery=mujer&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO2-CAT2-SUB6":{
         "props": {
-          "text":"[Ver Todo](/mujer/abajo?initialMap=c&initialQuery=mujer&map=category-1,parte)",
+          "text":"[Ver Todo](/mujer/abajo?initialMap=c&initialQuery=mujer&map=category-1,parte&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -937,19 +937,19 @@
        },
        "rich-text#MOBILE-DEPTO2-CAT3-SUB3":{
         "props": {
-          "text":"[Medias](/accesorios/medias/mujer?initialMap=c&initialQuery=accesorios&map=category-1,category-2,genero)",
+          "text":"[Medias](/accesorios/medias/mujer?initialMap=c&initialQuery=accesorios&map=category-1,category-2,genero&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO2-CAT3-SUB4":{
         "props": {
-          "text":"[Canilleras](/accesorios/canilleras/mujer?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria,genero)",
+          "text":"[Canilleras](/accesorios/canilleras/mujer?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria,genero&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
        "rich-text#MOBILE-DEPTO2-CAT3-SUB5":{
         "props": {
-          "text":"[Ver Todo](/Accesorios)",
+          "text":"[Ver Todo](/Accesorios?order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -995,7 +995,7 @@
    //--------------------------------DEPTO 1 - CAT3 - SUBS
      "rich-text#MOBILE-DEPTO2-CAT4-SUB1":{
        "props": {
-         "text":"[Ver Todo](/mujer/zapatillas?_q=zapatillas&fuzzy=0&initialMap=ft&initialQuery=zapatillas&map=genero,ft&operator=and)",
+         "text":"[Ver Todo](/mujer/zapatillas?_q=zapatillas&fuzzy=0&initialMap=ft&initialQuery=zapatillas&map=genero,ft&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
@@ -1047,26 +1047,26 @@
    //--------------------------------DEPTO 3 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO3-CAT1-SUB1":{
        "props": {
-         "text":"[Camisetas](/nino/camisetas?initialMap=c&initialQuery=niño&map=category-1,category-2)",
+         "text":"[Camisetas](/nino/camisetas?initialMap=c&initialQuery=niño&map=category-1,category-2&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO3-CAT1-SUB2":{
         "props": {
-          "text":"[BUZOS](/niño/Prendas-de-arriba/)",
+          "text":"[BUZOS](/niño/Prendas-de-arriba?order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO3-CAT1-SUB3":{
         "props": {
-          "text":"[Chaquetas](/nino/chaquetas?initialMap=c&initialQuery=niño&map=category-1,subcategoria)",
+          "text":"[Chaquetas](/nino/chaquetas?initialMap=c&initialQuery=niño&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
   
        "rich-text#MOBILE-DEPTO3-CAT1-SUB5":{
         "props": {
-          "text":"[Ver Todo](/nino/arriba?initialMap=c&initialQuery=niño&map=category-1,parte)",
+          "text":"[Ver Todo](/nino/arriba?initialMap=c&initialQuery=niño&map=category-1,parte&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -1114,19 +1114,19 @@
    //--------------------------------DEPTO 3 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO3-CAT2-SUB1":{
        "props": {
-         "text":"[Pantalonetas](/nino/pantalonetas?initialMap=c&initialQuery=niño&map=category-1,category-2)",
+         "text":"[Pantalonetas](/nino/pantalonetas?initialMap=c&initialQuery=niño&map=category-1,category-2&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO3-CAT2-SUB2":{
         "props": {
-          "text":"[Pantalones](/nino/pantalones?initialMap=c&initialQuery=niño&map=category-1,category-2)",
+          "text":"[Pantalones](/nino/pantalones?initialMap=c&initialQuery=niño&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO3-CAT2-SUB3":{
         "props": {
-          "text":"[Ver Todo](/nino/abajo?initialMap=c&initialQuery=niño&map=category-1,parte)",
+          "text":"[Ver Todo](/nino/abajo?initialMap=c&initialQuery=niño&map=category-1,parte&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
@@ -1174,13 +1174,13 @@
    //--------------------------------DEPTO 1 - CAT3 - SUBS
      "rich-text#MOBILE-DEPTO3-CAT3-SUB1":{
        "props": {
-         "text":"[Maletas](/accesorios/maletas?initialMap=c&initialQuery=accesorios&map=category-1,category-2)",
+         "text":"[Maletas](/accesorios/maletas?initialMap=c&initialQuery=accesorios&map=category-1,category-2&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO3-CAT3-SUB2":{
         "props": {
-          "text":"[Medias](/nino/medias?initialMap=c&initialQuery=niño&map=category-1,category-2)",
+          "text":"[Medias](/accesorios/medias/futbol-nino?initialMap=c,c&initialQuery=accesorios/medias&map=category-1,category-2,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
@@ -1228,7 +1228,7 @@
       //--------------------------------DEPTO 1 - CAT4 - SUBS 
      "rich-text#MOBILE-DEPTO3-CAT4-SUB1":{
        "props": {
-         "text":"[Pasto Sintético](/nino/zapatos?initialMap=c&initialQuery=niño&map=category-1,category-2)",
+         "text":"[Pasto Sintético](/nino/zapatos?initialMap=c&initialQuery=niño&map=category-1,category-2&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
@@ -1286,19 +1286,19 @@
    //--------------------------------DEPTO 4 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO4-CAT1-SUB1":{
        "props": {
-         "text":"[Medias Fútbol](/accesorios/medias?initialMap=c&initialQuery=accesorios&map=category-1,category-2)",
+         "text":"[Medias Fútbol](/accesorios/medias/futbol?initialMap=c&initialQuery=accesorios&map=category-1,category-2,subcategoria&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO4-CAT1-SUB2":{
         "props": {
-          "text":"[Medias Largas](/accesorios/medias/arriba-de-la-rodilla?initialMap=c&initialQuery=accesorios&map=category-1,category-2,caracteristicas)",
+          "text":"[Medias Largas](/accesorios/medias/largas?initialMap=c&initialQuery=accesorios&map=category-1,category-2,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO4-CAT1-SUB3":{
         "props": {
-          "text":"[Medias cortas](/accesorios/medias/cortas?initialMap=c&initialQuery=accesorios&map=category-1,category-2,caracteristicas)",
+          "text":"[Medias cortas](/accesorios/medias/cortas?initialMap=c&initialQuery=accesorios&map=category-1,category-2,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
@@ -1346,13 +1346,13 @@
    //--------------------------------DEPTO 1 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO4-CAT2-SUB1":{
        "props": {
-         "text":"[Fútbol](/accesorios/balones?initialMap=c&initialQuery=accesorios&map=category-1,category-2)",
+         "text":"[Fútbol](/balones/futbol?initialMap=c&initialQuery=accesorios&map=category-2,subcategoria&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO4-CAT2-SUB2":{
         "props": {
-          "text":"[Microfútbol/Banquitas](/accesorios/balones/no-rebota?initialMap=c&initialQuery=accesorios&map=category-1,category-2,caracteristicas)",
+          "text":"[Microfútbol/Banquitas](/balones/microfutbol-banquitas?initialMap=c&initialQuery=accesorios&map=category-2,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
@@ -1400,13 +1400,13 @@
    //--------------------------------DEPTO 1 - CAT3 - SUBS
      "rich-text#MOBILE-DEPTO4-CAT3-SUB1":{
        "props": {
-         "text":"[Desechables](/accesorios/tapabocas/desechable?initialMap=c&initialQuery=accesorios&map=category-1,category-2,caracteristicas)",
+         "text":"[Desechables](/accesorios/tapabocas/desechable?initialMap=c&initialQuery=accesorios&map=category-1,category-2,caracteristicas&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO4-CAT3-SUB2":{
         "props": {
-          "text":"[Tela](/accesorios/tapabocas?initialMap=c&initialQuery=accesorios&map=category-1,category-2&page=2)",
+          "text":"[Tela](/accesorios/tapabocas?initialMap=c&initialQuery=accesorios&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
@@ -1454,19 +1454,19 @@
       //--------------------------------DEPTO 4 - CAT3 - SUBS 
      "rich-text#MOBILE-DEPTO4-CAT4-SUB1":{
        "props": {
-         "text":"[Maletines](/accesorios/maletas?initialMap=c&initialQuery=accesorios&map=category-1,category-2)",
+         "text":"[Maletines](/accesorios/maletas/maletines?initialMap=c&initialQuery=accesorios&map=category-1,category-2,subcategoria&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO4-CAT4-SUB2":{
         "props": {
-          "text":"[Tulas](/accesorios/tulas?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria)",
+          "text":"[Tulas](/accesorios/tulas?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO4-CAT4-SUB3":{
         "props": {
-          "text":"[Morrales](/accesorios/morrales?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria)",
+          "text":"[Morrales](/accesorios/morrales?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
@@ -1519,19 +1519,19 @@
       //--------------------------------DEPTO 1 - CAT5 - SUBS 
      "rich-text#MOBILE-DEPTO4-CAT5-SUB1":{
        "props": {
-         "text":"[Canilleras](/accesorios/canilleras?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria)",
+         "text":"[Canilleras](/accesorios/canilleras?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO4-CAT5-SUB2":{
         "props": {
-          "text":"[Rodilleras](/accesorios/rodilleras?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria)",
+          "text":"[Rodilleras](/accesorios/rodilleras?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO4-CAT5-SUB3":{
         "props": {
-          "text":"[Coderas](/accesorios/coderas?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria)",
+          "text":"[Coderas](/accesorios/coderas?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },    
@@ -1590,25 +1590,25 @@
    //--------------------------------DEPTO 4 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO5-CAT1-SUB1":{
        "props": {
-         "text":"[Aragua](/aragua?_q=aragua&map=ft)",
+         "text":"[Aragua](/aragua?_q=aragua&map=ft&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO5-CAT1-SUB2":{
         "props": {
-          "text":"[Haiti](/hombre/haiti?_c=hombre&map=c,ft)",
+          "text":"[Haiti](/hombre/haiti?_c=hombre&map=c,ft&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO5-CAT1-SUB3":{
         "props": {
-          "text":"[Saeta Futsal](/futsal?map=ft)",
+          "text":"[Saeta Futsal](/futsal?map=ft&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO5-CAT1-SUB4":{
         "props": {
-          "text":"[Valledupar](/Valledupar?map=ft)",
+          "text":"[Valledupar](/Valledupar?map=ft&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -1660,43 +1660,43 @@
    //--------------------------------DEPTO 5 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO5-CAT2-SUB1":{
        "props": {
-         "text":"[Uniformes Hombre](/hombre/uniformes?initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+         "text":"[Uniformes Hombre](/hombre/uniformes?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO5-CAT2-SUB2":{
         "props": {
-          "text":"[Uniformes Mujer](/mujer/uniformes?initialMap=c&initialQuery=mujer&map=category-1,category-2)",
+          "text":"[Uniformes Mujer](/mujer/uniformes?initialMap=c&initialQuery=mujer&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO5-CAT2-SUB3":{
         "props": {
-          "text":"[Camisetas Hombre](/hombre/camisetas?initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+          "text":"[Camisetas Hombre](/hombre/camisetas?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO5-CAT2-SUB4":{
         "props": {
-          "text":"[Pantalonetas Hombre](/hombre/pantalones?initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+          "text":"[Pantalonetas Hombre](/hombre/pantalonetas/futbol?initialMap=c&initialQuery=hombre&map=category-1,category-2,deporte&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
        "rich-text#MOBILE-DEPTO5-CAT2-SUB5":{
         "props": {
-          "text":"[Medias](/accesorios/medias?initialMap=c&initialQuery=accesorios&map=category-1,category-2)",
+          "text":"[Medias](/accesorios/medias?initialMap=c&initialQuery=accesorios&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },     
        "rich-text#MOBILE-DEPTO5-CAT2-SUB6":{
         "props": {
-          "text":"[Camisetas Mujer](/mujer/camisetas?initialMap=c&initialQuery=mujer&map=category-1,category-2)",
+          "text":"[Camisetas Mujer](/mujer/camisetas?initialMap=c&initialQuery=mujer&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
        "rich-text#MOBILE-DEPTO5-CAT2-SUB7":{
         "props": {
-          "text":"[Pantalonetas Mujer](/mujer/shorts?initialMap=c&initialQuery=mujer&map=category-1,category-2)",
+          "text":"[Pantalonetas Mujer](/mujer/shorts?initialMap=c&initialQuery=mujer&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -1708,7 +1708,7 @@
        },
        "rich-text#MOBILE-DEPTO5-CAT2-SUB9":{
         "props": {
-          "text":"[Arqueros](/hombre/arquero?initialMap=c&initialQuery=hombre&map=category-1,subcategoria)",
+          "text":"[Arqueros](/arquero?_q=arquero&map=ft&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -1762,19 +1762,19 @@
    //--------------------------------DEPTO 6 - CAT3 - SUBS
      "rich-text#MOBILE-DEPTO5-CAT3-SUB1":{
        "props": {
-         "text":"[Camisetas](/camisetas/ciclismo?initialMap=c&initialQuery=hombre&map=category-2,deporte)",
+         "text":"[Camisetas](/camisetas/ciclismo?initialMap=c&initialQuery=hombre&map=category-2,deporte&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO5-CAT3-SUB2":{
         "props": {
-          "text":"[Badanas](/ciclismo/bandanas?initialMap=c&initialQuery=hombre&map=subcategoria,subcategoria)",
+          "text":"[Badanas](/ciclismo/bandanas?initialMap=c&initialQuery=hombre&map=subcategoria,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO5-CAT3-SUB3":{
         "props": {
-          "text":"[Medias](/medias/cortas?initialMap=c&initialQuery=accesorios&map=category-2,caracteristicas)",
+          "text":"[Medias](/medias/cortas?initialMap=c&initialQuery=accesorios&map=category-2,caracteristicas&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
@@ -1823,13 +1823,13 @@
       //--------------------------------DEPTO 6 - CAT3 - SUBS 
      "rich-text#MOBILE-DEPTO5-CAT4-SUB1":{
        "props": {
-         "text":"[Camiseta](/camisetas/atletismo?initialMap=c&initialQuery=hombre&map=subcategoria,deporte)",
+         "text":"[Camiseta](/camisetas/atletismo?initialMap=c&initialQuery=hombre&map=subcategoria,deporte&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO5-CAT4-SUB2":{
         "props": {
-          "text":"[Pantalonetas](/pantalon/atletismo?initialMap=c&initialQuery=hombre&map=subcategoria,deporte)",
+          "text":"[Pantalonetas](/pantalon/atletismo?initialMap=c&initialQuery=hombre&map=subcategoria,deporte&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
@@ -1894,19 +1894,19 @@
        },
        "rich-text#MOBILE-DEPTO5-CAT5-SUB3":{
         "props": {
-          "text":"[Pantalonetas](/pantalonetas?initialMap=c&initialQuery=accesorios&map=category-2)",
+          "text":"[Pantalonetas](/pantalonetas?initialMap=c&initialQuery=accesorios&map=category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO5-CAT5-SUB4":{
         "props": {
-          "text":"[Pantalones](/pantalones?initialMap=c&initialQuery=accesorios&map=category-2)",
+          "text":"[Pantalones](/pantalones?initialMap=c&initialQuery=accesorios&map=category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },     
        "rich-text#MOBILE-DEPTO5-CAT5-SUB5":{
         "props": {
-          "text":"[Medias](/accesorios/medias?initialMap=c&initialQuery=accesorios&map=category-1,category-2)",
+          "text":"[Medias](/accesorios/medias?initialMap=c&initialQuery=accesorios&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },     
@@ -1966,31 +1966,31 @@
    //--------------------------------DEPTO 6 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO6-CAT1-SUB1":{
        "props": {
-         "text":"[Camisetas](/hombre/camisetas?initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+         "text":"[Camisetas](/hombre/camisetas?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO6-CAT1-SUB2":{
         "props": {
-          "text":"[BUZOS](/hombre/buzos?initialMap=c&initialQuery=hombre&map=category-1,category-2)",
+          "text":"[BUZOS](/hombre/buzos?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO6-CAT1-SUB3":{
         "props": {
-          "text":"[Chaquetas](/hombre/Prendas-de-arriba/)",
+          "text":"[Chaquetas](/hombre/Prendas-de-arriba?order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO6-CAT1-SUB4":{
         "props": {
-          "text":"[Licras de Compresicón](/hombre/Prendas-de-arriba/)",
+          "text":"[Licras de Compresicón](/hombre/Prendas-de-arriba?order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
        "rich-text#MOBILE-DEPTO6-CAT1-SUB5":{
         "props": {
-          "text":"[Ver Todo](/hombre/arriba?initialMap=c&initialQuery=hombre&map=category-1,parte)",
+          "text":"[Ver Todo](/hombre/arriba?initialMap=c&initialQuery=hombre&map=category-1,parte&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -2041,37 +2041,37 @@
    //--------------------------------DEPTO 1 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO6-CAT2-SUB1":{
        "props": {
-         "text":"[Pantalonetas](/hombre/Prendas-de-abajo/)",
+         "text":"[Pantalonetas](/hombre/Prendas-de-abajo?order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO6-CAT2-SUB2":{
         "props": {
-          "text":"[Bermudas](/hombre/Prendas-de-abajo/)",
+          "text":"[Bermudas](/hombre/Prendas-de-abajo&?order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO6-CAT2-SUB3":{
         "props": {
-          "text":"[Bicicleteros](/hombre/Prendas-de-abajo/)",
+          "text":"[Bicicleteros](/hombre/Prendas-de-abajo&?order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO6-CAT2-SUB4":{
         "props": {
-          "text":"[Ropa Interior](/hombre/Prendas-de-abajo/)",
+          "text":"[Ropa Interior](/hombre/Prendas-de-abajo?order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
        "rich-text#MOBILE-DEPTO6-CAT2-SUB5":{
         "props": {
-          "text":"[Licras](/hombre/Prendas-de-abajo/)",
+          "text":"[Licras](/hombre/Prendas-de-abajo?order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },     
        "rich-text#MOBILE-DEPTO6-CAT2-SUB6":{
         "props": {
-          "text":"[Ver Todo](/hombre/abajo?initialMap=c&initialQuery=hombre&map=category-1,parte)",
+          "text":"[Ver Todo](/hombre/abajo?initialMap=c&initialQuery=hombre&map=category-1,parte&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -2121,31 +2121,31 @@
    //--------------------------------DEPTO 6 - CAT3 - SUBS
      "rich-text#MOBILE-DEPTO6-CAT3-SUB1":{
        "props": {
-         "text":"[Tapabocas](/accesorios/tapabocas?initialMap=c&initialQuery=accesorios&map=category-1,category-2)",
+         "text":"[Tapabocas](/accesorios/tapabocas?initialMap=c&initialQuery=accesorios&map=category-1,category-2&order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO6-CAT3-SUB2":{
         "props": {
-          "text":"[Maletas](/accesorios/maletas?initialMap=c&initialQuery=accesorios&map=category-1,category-2)",
+          "text":"[Maletas](/accesorios/maletas?initialMap=c&initialQuery=accesorios&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO6-CAT3-SUB3":{
         "props": {
-          "text":"[Medias](/accesorios/medias?initialMap=c&initialQuery=accesorios&map=category-1,category-2)",
+          "text":"[Medias](/accesorios/medias?initialMap=c&initialQuery=accesorios&map=category-1,category-2&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO6-CAT3-SUB4":{
         "props": {
-          "text":"[Canilleras](/accesorios/canilleras?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria)",
+          "text":"[Canilleras](/accesorios/canilleras?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
        "rich-text#MOBILE-DEPTO6-CAT3-SUB5":{
         "props": {
-          "text":"[Ver Todo](/Accesorios)",
+          "text":"[Ver Todo](/Accesorios?order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -2192,7 +2192,7 @@
       //--------------------------------DEPTO 6 - CAT3 - SUBS 
      "rich-text#MOBILE-DEPTO6-CAT4-SUB1":{
        "props": {
-         "text":"[Ver Todo](/accesorios/rompemallas/)",
+         "text":"[Ver Todo](/accesorios/rompemallas?order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
@@ -2246,25 +2246,25 @@
       //--------------------------------DEPTO 6 - CAT5 - SUBS 
      "rich-text#MOBILE-DEPTO6-CAT5-SUB1":{
        "props": {
-         "text":"[Futbol/Futsal](/hombre/Deportes/Futbol)",
+         "text":"[Futbol/Futsal](/hombre/Futbol?order=OrderByReleaseDateDESC)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO6-CAT5-SUB2":{
         "props": {
-          "text":"[Ciclismo](/hombre/Deportes/Ciclismo)",
+          "text":"[Ciclismo](/hombre/Ciclismo?order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO6-CAT5-SUB3":{
         "props": {
-          "text":"[Atletismo](/hombre/Atletismo)",
+          "text":"[Atletismo](/hombre/Atletismo?order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO6-CAT5-SUB4":{
         "props": {
-          "text":"[Fitness](/hombre/Fitness)",
+          "text":"[Fitness](/hombre/Fitness/hombre/Atletismo?order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        }

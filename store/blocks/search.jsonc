@@ -199,9 +199,11 @@
       ]
        },
       "gallery":{
-      "blocks": ["product-summary.shelf"]
-      
-       },
+      "blocks": ["product-summary.shelf"],
+      "props": {
+        "maxItemsPerPage": 2
+       }
+      },
     
    "store.not-found#product": {
         "blocks": ["image#imgTopDepto","image#imgTopDeptoM", "flex-layout.row#searchbread", "flex-layout.row#notfound", "rich-text#not-found","shelf#not-found"]
@@ -289,9 +291,9 @@
       "props": {
        /* "collection": 142,*/
         "productList": {
-        "maxItems": 10,
-        "itemsPerPage": 3,
-        "minItemsPerPage": 2,
+        "maxItems": 12,
+        "itemsPerPage": 4,
+        "minItemsPerPage": 4,
         "scroll": "BY_PAGE",
         "arrows": "true",
         "showPaginationDots": "never",
@@ -302,14 +304,14 @@
     },
     "image#imgTopDepto": {
       "props": {
-        "src": "https://saetasport.vteximg.com.br/arquivos/banner-Category.png",
+        "src": "https://saetasport.vteximg.com.br/arquivos/categoriaOfertasDeportes-desk2.jpg",
         "maxWidth": "100%",
         "blockClass":"Product-Image-Header"
       }
     },
     "image#imgTopDeptoM": {
       "props": {
-        "src": "https://saetasport.vteximg.com.br/arquivos/banner-CategoryM.png",
+        "src": "https://saetasport.vteximg.com.br/arquivos/categoriaOfertasDeportes-mobile2.jpg",
         "maxWidth": "100%",
         "blockClass":"Product-Image-HeaderM"
       }

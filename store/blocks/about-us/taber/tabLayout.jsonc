@@ -28,11 +28,7 @@
   "slider-layout#history-slider": {
     "props": {
       "blockClass": ["History__slider"],
-      "itemsPerPage": {
-        "desktop": 9,
-        "tablet": 6,
-        "phone": 4
-      },
+
       "showPaginationDots": "never",
       "showNavigationArrows": "always",
       "infinite": true

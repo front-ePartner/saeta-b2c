@@ -195,12 +195,16 @@
 
 .specificationName--especificacionesPE1[data-specification-name="Sub-Categoría"] {display: none;}
 .specificationValue--PE-1[data-specification-name="Sub-Categoría"] {display: none;}
-.specificationName--especificacionesPE1[data-specification-name="Tecnologia 2"] {display: none;}
-.specificationValue--PE-1[data-specification-name="Tecnologia 2"] {display: none;}
-.specificationName--especificacionesPE1[data-specification-name="Tecnologia 3"] {display: none;}
-.specificationValue--PE-1[data-specification-name="Tecnologia 3"] {display: none;}
-.specificationName--especificacionesPE1[data-specification-name="Tecnologia 3"] {display: none;}
-.specificationValue--PE-1[data-specification-name="Tecnologia 3"] {display: none;}
+
+.specificationName--especificacionesPE1[data-specification-name="Tecnologia 1"] {width: 50%;}
+.specificationValue--PE-1[data-specification-name="Tecnologia 1"] {width: 50%;}
+.specificationName--especificacionesPE1[data-specification-name="Tecnologia 2"] {width: 50%;;}
+.specificationValue--PE-1[data-specification-name="Tecnologia 2"] {width: 50%;}
+.specificationName--especificacionesPE1[data-specification-name="Tecnologia 3"] {width: 50%;}
+.specificationValue--PE-1[data-specification-name="Tecnologia 3"] {width: 50%;}
+.specificationName--especificacionesPE1[data-specification-name="Tecnologia 3"] {width: 50%;}
+.specificationValue--PE-1[data-specification-name="Tecnologia 3"] {width: 50%;}
+
 .specificationName--especificacionesPE1[data-specification-name="parte"] {display: none;}
 .specificationValue--PE-1[data-specification-name="parte"] {display: none;}
 .specificationName--especificacionesPE1[data-specification-name="IMG-tecnologia1"] {display: none;}
@@ -350,12 +354,18 @@
 .specificationName--especificacionesINFO-TITULO1[data-specification-name="IMG-especificaciones1"] {display: none;}
 .specificationValue--EspecificacionesINFO1[data-specification-name="IMG-especificaciones2"] {display: none;}
 .specificationName--especificacionesINFO-TITULO1[data-specification-name="IMG-especificaciones2"] {display: none;}
-.specificationValue--EspecificacionesINFO1[data-specification-name="Actividad"] {display: none;}
-.specificationName--especificacionesINFO-TITULO1[data-specification-name="Actividad"] {display: none;}
+
 .specificationValue--EspecificacionesINFO1[data-specification-name="Caracteristicas"] {display: none;}
 .specificationName--especificacionesINFO-TITULO1[data-specification-name="Caracteristicas"] {display: none;}
 .specificationValue--EspecificacionesINFO1[data-specification-name="Coleccion"] {display: none;}
 .specificationName--especificacionesINFO-TITULO1[data-specification-name="Coleccion"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="Subcategoria"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="Subcategoria"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="Color"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="Color"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="Genero"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="Genero"] {display: none;}
+
 
 
 
@@ -387,14 +397,18 @@
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="Deporte"] {display: none;}
 .specificationValue--EspecificacionesINFO2[data-specification-name="Subcategoria"] {display: none;}
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="Subcategoria"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="Coleccion"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="Coleccion"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="Actividad"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="Actividad"] {display: none;}
 
 
 
 .specificationValue--EspecificacionesIMG-2--last {
-    width: 85%;
+    width: 85% !important;
 }
 .specificationValue--EspecificacionesIMG-1--last {
-    width: 85%;
+    width: 85% !important;
 }
 
 

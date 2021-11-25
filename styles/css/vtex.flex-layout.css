@@ -457,9 +457,20 @@
   position: relative;
 }
 .flexRowContent--InformacionDos .stretchChildrenWidth {
-  width: 33% !important;
+  width: 50% !important;
   padding: 0px 10px
 }
+.flexRowContent--InformacionDos .stretchChildrenWidth:first-child {
+  width: 25% !important;
+}
+.flexRowContent--InformacionDos .stretchChildrenWidth:last-child {
+  width: 25% !important;
+}
+.flexRowContent--InformacionDos {
+  justify-content: space-around;
+}
+
+
 .flexCol--imagenesESPECIFIC {
   height: 500px;
 }
@@ -578,7 +589,18 @@
   display: flex;
   flex-wrap: wrap;
 }
-
+.flexRowContent--tab-especificaciones .stretchChildrenWidth {
+  width: 33% !important;
+}
+.flexRowContent--tab-especificaciones .stretchChildrenWidth:first-child {
+  width: 33% !important;
+}
+.flexRowContent--tab-especificaciones .stretchChildrenWidth:last-child {
+  width: 33% !important;
+}
+.flexRowContent--tab-especificaciones .flexRowContent--product1-info-ESPECI .stretchChildrenWidth {
+  width: 50% !important;
+}
 
 
 
@@ -1127,8 +1149,9 @@
 }
 .flexColChild--InformacionDOCUMENTOS{
   display: flex;
+  align-items: center;
+  height: 100%!important;
   flex-wrap: wrap;
-  height: auto !important;
 }
 .flexRow--reviews-and-ratings{
   margin-left: 100px;

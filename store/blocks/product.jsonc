@@ -342,7 +342,7 @@
     ],
     "props":{
       "tabId": "product1",
-      "blockClass": "InformacionDos"
+      "blockClass": ["InformacionDos", "tab-especificaciones"]
     }
   },
 
@@ -644,8 +644,8 @@
   "flex-layout.row#product2":{
     "children": [
       "flex-layout.col#productEsepecificacionIMG1",
-      "flex-layout.col#productEsepecificacion",
-      "flex-layout.col#productEsepecificacion-Part2",
+      "flex-layout.col#productEsepecificacion",/*
+      "flex-layout.col#productEsepecificacion-Part2",*/
       "flex-layout.col#productEsepecificacionIMG2"
     ],
     "props":{

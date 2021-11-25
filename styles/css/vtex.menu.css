@@ -112,7 +112,7 @@
 }
 .submenu .menuItem .styledLinkContent{
     transition: all 1s;
-    padding: 7px 15px;
+    padding: 20px 15px;
 }
 .submenu .menuItem .styledLinkContent:hover {
     background-color:white;
@@ -319,7 +319,7 @@
     justify-content: space-around;
 }
 .submenuContainer--MENU-NIVEL-DEPTO-CAT-SUBS {
-    top: 37px;
+    top: 55px;
 }
 .menuItem--MENU-NIVEL-DEPTO {
     display: flex;

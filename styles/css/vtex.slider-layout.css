@@ -25,6 +25,9 @@
   background: white;
   overflow: hidden;
 }
+.slide--History__slider--visible {
+  margin: 0 5px;
+}
 .sliderTrackContainer--Cmarca{
   padding: 22px 104px 22px 0;
 }

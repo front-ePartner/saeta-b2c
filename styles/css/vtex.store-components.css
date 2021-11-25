@@ -1825,7 +1825,9 @@
 .infoCardTextContainer--IR-B2C {
   width: 100%;
 }
-
+.productImage .triggerContainer {
+  width: 100%;
+}
 
 
 
