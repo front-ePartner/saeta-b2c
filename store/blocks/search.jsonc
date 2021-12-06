@@ -196,12 +196,22 @@
       "blocks": [
         "gallery", 
         "not-found"
-      ]
-       },
-      "gallery":{
-      "blocks": ["product-summary.shelf"],
+      ],
       "props": {
-        "maxItemsPerPage": 2
+        "quantity": {
+          "mobile": 1,
+          "desktop": 2
+        }
+     }
+  },
+  
+  "gallery":{
+        "blocks": ["product-summary.shelf"],
+         "props": {
+          "quantity": {
+            "mobile": 1,
+            "desktop": 2
+          }
        }
       },
     
@@ -227,7 +237,7 @@
               "titleText": "Nuestras Marcas",
               "itemsPerPage": 4,
               "maxItems": 12,
-              "minItemsPerPage": 2,
+              "minItemsPerPage": 12,
               "scroll": "BY_PAGE",
               "arrows": "true",
               "blockClass": "textosSec",

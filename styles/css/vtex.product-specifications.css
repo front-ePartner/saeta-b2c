@@ -155,6 +155,9 @@
 .specificationValue--PE-IMG[data-specification-name="Horma"] {display:none}
 .specificationValue--PE-IMG[data-specification-name="IMG-tecnologia2"] {display: none;}
 .specificationValue--PE-IMG[data-specification-name="IMG-especificaciones2"] {display: none;}
+.specificationValue--PE-IMG[data-specification-name="descripcion-esp"] {display: none;}
+
+
 
 .specificationValue--PE-IMG2[data-specification-name="Sub-Categoría"] {display:none}
 .specificationValue--PE-IMG2[data-specification-name="Material"] {display:none}
@@ -178,6 +181,10 @@
 .specificationValue--PE-IMG2[data-specification-name="IMG-tecnologia1"] {display: none;}
 .specificationValue--PE-IMG2[data-specification-name="IMG-especificaciones2"] {display: none;}
 .specificationValue--PE-IMG2[data-specification-name="IMG-especificaciones1"] {display: none;}
+.specificationValue--PE-IMG2[data-specification-name="descripcion-esp"] {display: none;}
+
+
+
 
 
 .specificationName--especificacionesPE1[data-specification-name="IMG-especificaciones1"] {display: none;}
@@ -240,6 +247,12 @@
 .specificationName--especificacionesPE1[data-specification-name="Tecnologia 1"] {display: none;}
 .specificationName--especificacionesPE1[data-specification-name="Tecnologia 2"] {display: none;}
 .specificationName--especificacionesPE1[data-specification-name="Tecnologia 3"] {display: none;}
+.specificationName--especificacionesPE1[data-specification-name="descripcion-esp"] {display: none;}
+.specificationValue--PE-1[data-specification-name="descripcion-esp"] {display: none;}
+
+
+
+
 
 
 
@@ -278,7 +291,8 @@
 .specificationValue--PE-2[data-specification-name="Tecnologia 3"] {padding: 15px 0px 0px;}
 .specificationName--especificacionesPE2[data-specification-name="Tecnologia 2"] {display: none;}
 .specificationName--especificacionesPE2[data-specification-name="Tecnologia 3"] {display: none;}
-
+.specificationName--especificacionesPE2[data-specification-name="descripcion-esp"] {display: none;}
+.specificationValue--PE-2[data-specification-name="descripcion-esp"] {display: none;}
 
 
 
@@ -308,6 +322,7 @@
 .specificationValue--EspecificacionesIMG-1[data-specification-name="IMG-tecnologia1"] {display: none;}
 .specificationValue--EspecificacionesIMG-1[data-specification-name="IMG-tecnologia2"] {display: none;}
 .specificationValue--EspecificacionesIMG-1[data-specification-name="Deporte"] {display: none;}
+.specificationValue--EspecificacionesIMG-1[data-specification-name="descripcion-esp"] {display: none;}
 
 
 
@@ -329,6 +344,7 @@
 .specificationValue--EspecificacionesIMG-2[data-specification-name="IMG-tecnologia1"] {display: none;}
 .specificationValue--EspecificacionesIMG-2[data-specification-name="IMG-tecnologia2"] {display: none;}
 .specificationValue--EspecificacionesIMG-2[data-specification-name="Deporte"] {display: none;}
+.specificationValue--EspecificacionesIMG-2[data-specification-name="descripcion-esp"] {display: none;}
 
 
 
@@ -354,7 +370,6 @@
 .specificationName--especificacionesINFO-TITULO1[data-specification-name="IMG-especificaciones1"] {display: none;}
 .specificationValue--EspecificacionesINFO1[data-specification-name="IMG-especificaciones2"] {display: none;}
 .specificationName--especificacionesINFO-TITULO1[data-specification-name="IMG-especificaciones2"] {display: none;}
-
 .specificationValue--EspecificacionesINFO1[data-specification-name="Caracteristicas"] {display: none;}
 .specificationName--especificacionesINFO-TITULO1[data-specification-name="Caracteristicas"] {display: none;}
 .specificationValue--EspecificacionesINFO1[data-specification-name="Coleccion"] {display: none;}
@@ -365,6 +380,8 @@
 .specificationName--especificacionesINFO-TITULO1[data-specification-name="Color"] {display: none;}
 .specificationValue--EspecificacionesINFO1[data-specification-name="Genero"] {display: none;}
 .specificationName--especificacionesINFO-TITULO1[data-specification-name="Genero"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="descripcion-esp"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="descripcion-esp"] {display: none;}
 
 
 
@@ -401,6 +418,58 @@
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="Coleccion"] {display: none;}
 .specificationValue--EspecificacionesINFO2[data-specification-name="Actividad"] {display: none;}
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="Actividad"] {display: none;}
+.specificationValue--EspecificacionesINFO2[data-specification-name="descripcion-esp"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="descripcion-esp"] {display: none;}
+
+
+
+
+
+
+.specificationValue--EspecificacionesINFO3[data-specification-name="parte"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="parte"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="Tecnologia 1"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="Tecnologia 1"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="Tecnologia 2"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="Tecnologia 2"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="Tecnologia 3"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="parte"][data-specification-name="Tecnologia 3"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="IMG-tecnologia1"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="IMG-tecnologia1"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="IMG-tecnologia2"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="IMG-tecnologia2"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="IMG-especificaciones1"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="IMG-especificaciones1"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="IMG-especificaciones2"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="IMG-especificaciones2"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="Material"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="Material"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="Color"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="Color"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="Genero"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="Genero"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="Horma"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="Horma"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="Deporte"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="Deporte"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="Subcategoria"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="Subcategoria"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="Coleccion"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="Coleccion"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="Actividad"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="Actividad"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="Caracteristicas"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="Caracteristicas"] {display: none;}
+.specificationValue--EspecificacionesINFO3[data-specification-name="Garantia"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="Garantia"] {display: none;}
+
+
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="descripcion-esp"] {font-size: 0;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="descripcion-esp"]::after {content:"Descripción de Producto";font-size: 16px;}
+
+
+
+
 
 
 
