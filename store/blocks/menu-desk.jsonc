@@ -2584,7 +2584,7 @@
   },
   "rich-text#depto4cat3sub2":{
     "props": {
-      "text":"[Tela](/accesorios/tapabocas?initialMap=c&initialQuery=accesorios&map=category-1,category-2&page=2&order=OrderByReleaseDateDESC)",
+      "text":"[Tela](/accesorios/tapabocas?initialMap=c&initialQuery=accesorios&map=category-1,category-2&order=OrderByReleaseDateDESC)",
       "blockClass": "tituoSubCategoria"
     }
   },

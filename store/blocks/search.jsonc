@@ -5,9 +5,11 @@
     "props": {
         "context": {
             "skusFilter": "ALL",
-            "simulationBehavior": "default"
-        },
-        "maxItemsPerPage": 12
+            "simulationBehavior": "default",
+            "maxItemsPerPage": 12,
+            "orderByField": "OrderByReleaseDateDESC"
+        }
+        
      }
   },
   "breadcrumb.search": {
