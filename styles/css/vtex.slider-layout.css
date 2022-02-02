@@ -139,6 +139,7 @@
   top: 21%;
   left: 11%;
   right: unset;
+  height: 40px;
 }
 .paginationDot--carouselBannerpri--isActive {
   background-color: #FBCE2F;
