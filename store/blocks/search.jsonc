@@ -238,8 +238,8 @@
           "productList": {
               "titleText": "Nuestras Marcas",
               "itemsPerPage": 4,
-              "maxItems": 12,
-              "minItemsPerPage": 12,
+              "maxItems": 4,
+              "minItemsPerPage": 2,
               "scroll": "BY_PAGE",
               "arrows": "true",
               "blockClass": "textosSec",

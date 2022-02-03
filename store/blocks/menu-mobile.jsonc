@@ -1983,39 +1983,26 @@
           "children": [
             "rich-text#MOBILE-DEPTO6-CAT1-SUB1",
             "rich-text#MOBILE-DEPTO6-CAT1-SUB2",
-            "rich-text#MOBILE-DEPTO6-CAT1-SUB3",
-            "rich-text#MOBILE-DEPTO6-CAT1-SUB4",
-            "rich-text#MOBILE-DEPTO6-CAT1-SUB5"
+            "rich-text#MOBILE-DEPTO6-CAT1-SUB3"
           ]
         },
    //--------------------------------DEPTO 6 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO6-CAT1-SUB1":{
        "props": {
-         "text":"[Camisetas](/hombre/camisetas?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
+         "text":"[Prendas de arriba](/hombre/146/arriba?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO6-CAT1-SUB2":{
         "props": {
-          "text":"[BUZOS](/hombre/buzos?initialMap=c&initialQuery=hombre&map=category-1,category-2&order=OrderByReleaseDateDESC)",
+          "text":"[Prendas de Abajo](/hombre/146/abajo?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
+
        "rich-text#MOBILE-DEPTO6-CAT1-SUB3":{
         "props": {
-          "text":"[Chaquetas](/hombre/Prendas-de-arriba?order=OrderByReleaseDateDESC)",
-         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
-       }
-       },
-       "rich-text#MOBILE-DEPTO6-CAT1-SUB4":{
-        "props": {
-          "text":"[Licras de Compresicón](/hombre/Prendas-de-arriba?order=OrderByReleaseDateDESC)",
-         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
-        }
-       },
-       "rich-text#MOBILE-DEPTO6-CAT1-SUB5":{
-        "props": {
-          "text":"[Ver Todo](/hombre/arriba?initialMap=c&initialQuery=hombre&map=category-1,parte&order=OrderByReleaseDateDESC)",
+          "text":"[Ver Todo](/hombre/146?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -2029,14 +2016,14 @@
           }
         },
         "disclosure-trigger#MOBILE-DEPTO6-CAT2": {
-          "children": ["rich-text#MOBILE-DEPTO4-CAT2"],
+          "children": ["rich-text#MOBILE-DEPTO6-CAT2"],
           "props": {
             "blockClass":"MOBILE-DEPTO-CAT"
           }
         },
         "disclosure-content#MOBILE-DEPTO6-CAT2": {
           "children": [
-            "flex-layout.row#MOBILE-DEPTO4-CAT2"
+            "flex-layout.row#MOBILE-DEPTO6-CAT2"
           ],
           "props": {
             "blockClass": "MOBILE-DEPTO-CAT"
@@ -2044,7 +2031,7 @@
         },
         "rich-text#MOBILE-DEPTO6-CAT2": {
           "props": {
-            "text": "Prendas de abajo",
+            "text": "Mujer",
             "blockClass": "MOBILE-DEPTO-CAT"
           }
         },
@@ -2057,49 +2044,29 @@
           "children": [
             "rich-text#MOBILE-DEPTO6-CAT2-SUB1",
             "rich-text#MOBILE-DEPTO6-CAT2-SUB2",
-            "rich-text#MOBILE-DEPTO6-CAT2-SUB3",
-            "rich-text#MOBILE-DEPTO6-CAT2-SUB4",
-            "rich-text#MOBILE-DEPTO6-CAT2-SUB5",
-            "rich-text#MOBILE-DEPTO6-CAT2-SUB6"
+            "rich-text#MOBILE-DEPTO6-CAT2-SUB3"
           ]
         },
    //--------------------------------DEPTO 1 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO6-CAT2-SUB1":{
        "props": {
-         "text":"[Pantalonetas](/hombre/Prendas-de-abajo?order=OrderByReleaseDateDESC)",
+         "text":"[Prendas de arriba](/mujer/146/arriba?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO6-CAT2-SUB2":{
         "props": {
-          "text":"[Bermudas](/hombre/Prendas-de-abajo&?order=OrderByReleaseDateDESC)",
+          "text":"[Prendas de abajo](/mujer/146/abajo?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO6-CAT2-SUB3":{
         "props": {
-          "text":"[Bicicleteros](/hombre/Prendas-de-abajo&?order=OrderByReleaseDateDESC)",
+          "text":"[Ver todo](/mujer/146?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
-       "rich-text#MOBILE-DEPTO6-CAT2-SUB4":{
-        "props": {
-          "text":"[Ropa Interior](/hombre/Prendas-de-abajo?order=OrderByReleaseDateDESC)",
-         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
-        }
-       },
-       "rich-text#MOBILE-DEPTO6-CAT2-SUB5":{
-        "props": {
-          "text":"[Licras](/hombre/Prendas-de-abajo?order=OrderByReleaseDateDESC)",
-         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
-        }
-       },     
-       "rich-text#MOBILE-DEPTO6-CAT2-SUB6":{
-        "props": {
-          "text":"[Ver Todo](/hombre/abajo?initialMap=c&initialQuery=hombre&map=category-1,parte&order=OrderByReleaseDateDESC)",
-         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
-        }
-       },
+
        //--------------------------------------------------------------------------CAT3
          //Tabbers-mobile
          "disclosure-layout#MOBILE-DEPTO6CAT3-SUBS": {
@@ -2140,41 +2107,48 @@
             "rich-text#MOBILE-DEPTO6-CAT3-SUB2",
             "rich-text#MOBILE-DEPTO6-CAT3-SUB3",
             "rich-text#MOBILE-DEPTO6-CAT3-SUB4",
-            "rich-text#MOBILE-DEPTO6-CAT3-SUB5"
+            "rich-text#MOBILE-DEPTO6-CAT3-SUB5",
+            "rich-text#MOBILE-DEPTO6-CAT3-SUB6"
           ]
         },
    //--------------------------------DEPTO 6 - CAT3 - SUBS
      "rich-text#MOBILE-DEPTO6-CAT3-SUB1":{
        "props": {
-         "text":"[Tapabocas](/accesorios/tapabocas?initialMap=c&initialQuery=accesorios&map=category-1,category-2&order=OrderByReleaseDateDESC)",
+         "text":"[Tapabocas](/accesorios/tapabocas/146?initialMap=productClusterIds&initialQuery=147&map=category-1,category-2,productClusterIds&order=)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO6-CAT3-SUB2":{
         "props": {
-          "text":"[Maletas](/accesorios/maletas?initialMap=c&initialQuery=accesorios&map=category-1,category-2&order=OrderByReleaseDateDESC)",
+          "text":"[Maletas](/accesorios/maletas/146?initialMap=productClusterIds&initialQuery=147&map=category-1,category-2,productClusterIds&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO6-CAT3-SUB3":{
         "props": {
-          "text":"[Medias](/accesorios/medias?initialMap=c&initialQuery=accesorios&map=category-1,category-2&order=OrderByReleaseDateDESC)",
+          "text":"[Medias](/accesorios/medias/146?initialMap=productClusterIds&initialQuery=147&map=category-1,category-2,productClusterIds&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO6-CAT3-SUB4":{
         "props": {
-          "text":"[Canilleras](/accesorios/canilleras?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
+          "text":"[Canilleras](/accesorios/canilleras/146?initialMap=productClusterIds&initialQuery=147&map=category-1,category-2,productClusterIds&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
        "rich-text#MOBILE-DEPTO6-CAT3-SUB5":{
         "props": {
-          "text":"[Ver Todo](/Accesorios?order=OrderByReleaseDateDESC)",
+          "text":"[Tulas](/accesorios/tulas/146?initialMap=productClusterIds&initialQuery=147&map=category-1,category-2,productClusterIds&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
-    //--------------------------------------------------------------------------CAT4
+       
+       "rich-text#MOBILE-DEPTO6-CAT3-SUB6":{
+        "props": {
+          "text":"[Ver Todo](/accesorios/146?initialMap=productClusterIds&initialQuery=147&map=category-1,productClusterIds&order=)",
+         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
+        }
+       },//--------------------------------------------------------------------------CAT4
          //Tabbers-mobile
          "disclosure-layout#MOBILE-DEPTO6CAT4-SUBS": {
           "children": ["disclosure-trigger#MOBILE-DEPTO6-CAT4", "disclosure-content#MOBILE-DEPTO6-CAT4"],
@@ -2199,7 +2173,7 @@
         },
         "rich-text#MOBILE-DEPTO6-CAT4": {
           "props": {
-            "text": "Deportes",
+            "text": "Niño",
             "blockClass": "MOBILE-DEPTO-CAT"
           }
         },
@@ -2210,18 +2184,31 @@
             "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
           },
           "children": [
-            "rich-text#MOBILE-DEPTO6-CAT4-SUB1"
+            "rich-text#MOBILE-DEPTO6-CAT4-SUB1",
+            "rich-text#MOBILE-DEPTO6-CAT4-SUB2",
+            "rich-text#MOBILE-DEPTO6-CAT4-SUB3"
           ]
         },
     
       //--------------------------------DEPTO 6 - CAT3 - SUBS 
      "rich-text#MOBILE-DEPTO6-CAT4-SUB1":{
        "props": {
-         "text":"[Ver Todo](/accesorios/rompemallas?order=OrderByReleaseDateDESC)",
+         "text":"[Parte de arriba](/nino/146/arriba?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
-  
+      "rich-text#MOBILE-DEPTO6-CAT4-SUB2":{
+        "props": {
+          "text":"[Parte de abajo](/nino/146/abajo?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
+         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
+       }
+       },
+       "rich-text#MOBILE-DEPTO6-CAT4-SUB3":{
+        "props": {
+          "text":"[Ver Todo](/nino/146?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds&order=)",
+         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
+       }
+       },
   
   
    //--------------------------------------------------------------------------CAT5
@@ -2234,7 +2221,7 @@
           }
         },
         "disclosure-trigger#MOBILE-DEPTO6-CAT5": {
-          "children": ["rich-text#MOBILE-DEPTO4-CAT5"],
+          "children": ["rich-text#MOBILE-DEPTO6-CAT5"],
           "props": {
             "blockClass":"MOBILE-DEPTO-CAT"
           }
@@ -2262,8 +2249,7 @@
           "children": [
             "rich-text#MOBILE-DEPTO6-CAT5-SUB1",
             "rich-text#MOBILE-DEPTO6-CAT5-SUB2",
-            "rich-text#MOBILE-DEPTO6-CAT5-SUB3",
-            "rich-text#MOBILE-DEPTO6-CAT5-SUB4"
+            "rich-text#MOBILE-DEPTO6-CAT5-SUB3"
   
           ]
         },
@@ -2271,25 +2257,19 @@
       //--------------------------------DEPTO 6 - CAT5 - SUBS 
      "rich-text#MOBILE-DEPTO6-CAT5-SUB1":{
        "props": {
-         "text":"[Futbol/Futsal](/hombre/Futbol?order=OrderByReleaseDateDESC)",
+         "text":"[Pasto Sintetico](/hombre/zapatos/146?initialMap=c,productClusterIds&initialQuery=hombre/147&map=category-1,category-2,productClusterIds&order=)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO6-CAT5-SUB2":{
         "props": {
-          "text":"[Ciclismo](/hombre/Ciclismo?order=OrderByReleaseDateDESC)",
+          "text":"[Pasto Sintetico](/hombre/zapatos/146?initialMap=c,productClusterIds&initialQuery=hombre/147&map=category-1,category-2,productClusterIds&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
-       "rich-text#MOBILE-DEPTO6-CAT5-SUB3":{
+      "rich-text#MOBILE-DEPTO6-CAT5-SUB3":{
         "props": {
-          "text":"[Atletismo](/hombre/Atletismo?order=OrderByReleaseDateDESC)",
-         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
-       }
-       },
-       "rich-text#MOBILE-DEPTO6-CAT5-SUB4":{
-        "props": {
-          "text":"[Fitness](/hombre/Fitness/hombre/Atletismo?order=OrderByReleaseDateDESC)",
+          "text":"[Ver Todo](/hombre/zapatos/146?initialMap=c,productClusterIds&initialQuery=hombre/147&map=category-1,category-2,productClusterIds&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        }

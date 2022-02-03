@@ -1602,7 +1602,8 @@
       "menu-item#DEPTO2",
       "menu-item#DEPTO3",
       "menu-item#DEPTO4",
-      "menu-item#DEPTO5"
+      "menu-item#DEPTO5",
+      "menu-item#DEPTO6"
     ]
   },
   "flex-layout.row#BotonesMenuMobile": {

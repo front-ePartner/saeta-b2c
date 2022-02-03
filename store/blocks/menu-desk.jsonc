@@ -3645,7 +3645,7 @@
       "blockClass": "MENU-NIVEL-DEPTO-CAT",
       "itemProps": {
         "type": "internal",
-        "href": "/Promo/Hombre?order=OrderByReleaseDateDESC",
+        "href": "/hombre/146?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds&order=",
         "noFollow": false,
         "tagTitle": "Shop",
         "text": "Hombre"
@@ -3661,7 +3661,7 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "/Promo/Mujer",
+        "href": "/mujer/146?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds&order=",
         "noFollow": false,
         "tagTitle": "Shop",
         "text": "Mujer"
@@ -3676,7 +3676,7 @@
       "blockClass": "MENU-NIVEL-DEPTO-CAT",
       "itemProps": {
         "type": "internal",
-        "href": "/Promo/accesorio?order=OrderByReleaseDateDESC",
+        "href": "/accesorios/146?initialMap=productClusterIds&initialQuery=147&map=category-1,productClusterIds&order=",
         "noFollow": false,
         "tagTitle": "Shop",
         "text": "Accesorios"
@@ -3691,7 +3691,7 @@
       "blockClass": "MENU-NIVEL-DEPTO-CAT",
       "itemProps": {
         "type": "internal",
-        "href": "/Promo/niño?order=OrderByReleaseDateDESC",
+        "href": "/nino/146?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds&order=",
         "noFollow": false,
         "tagTitle": "Shop",
         "text": "Niño"
@@ -3706,7 +3706,7 @@
       "blockClass": "MENU-NIVEL-DEPTO-CAT",
       "itemProps": {
         "type": "internal",
-        "href": "/Promo/Zapatos?order=OrderByReleaseDateDESC",
+        "href": "/hombre/zapatos/146?initialMap=c,productClusterIds&initialQuery=hombre/147&map=category-1,category-2,productClusterIds&order=",
         "noFollow": false,
         "tagTitle": "Shop",
         "text": "Zapatos"
@@ -3783,7 +3783,7 @@
   },
   "rich-text#depto6cat1sub1":{
     "props": {
-      "text":"[Prendas de Arriba](/hombre/arriba?initialMap=c&initialQuery=hombre&map=category-1,parte&order=OrderByReleaseDateDESC)",
+      "text":"[Prendas de Arriba](/hombre/146/arriba?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
       "blockClass": "tituoSubCategoria"
     }
   },
@@ -3800,7 +3800,7 @@
   },
   "rich-text#depto6cat1sub2":{
     "props": {
-      "text":"[Prendas de Abajo](/hombre/abajo?initialMap=c&initialQuery=hombre&map=category-1,parte&order=OrderByReleaseDateDESC)",
+      "text":"[Prendas de Abajo](/hombre/146/abajo?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
       "blockClass": "tituoSubCategoria"
     }
   },
@@ -3850,7 +3850,7 @@
   },
   "rich-text#depto6cat2sub1":{
     "props": {
-      "text":"[Prendas de Arriba](/mujer/arriba?initialMap=c&initialQuery=hombre&map=category-1,parte&order=OrderByReleaseDateDESC)",
+      "text":"[Prendas de Arriba](/mujer/146/arriba?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
       "blockClass": "tituoSubCategoria"
     }
   },
@@ -3868,7 +3868,7 @@
   },
   "rich-text#depto6cat2sub2":{
     "props": {
-      "text":"[Prendas de Abajo](/mujer/abajo?initialMap=c&initialQuery=hombre&map=category-1,parte&order=OrderByReleaseDateDESC)",
+      "text":"[Prendas de Abajo](/mujer/146/abajo?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
       "blockClass": "tituoSubCategoria"
     }
   },
@@ -3922,7 +3922,7 @@
   },
   "rich-text#depto6cat3sub1":{
     "props": {
-      "text":"[Tapabocas](/accesorios/tapabocas?initialMap=c&initialQuery=accesorios&map=category-1,category-2&order=OrderByReleaseDateDESC)",
+      "text":"[Tapabocas](/accesorios/tapabocas/146?initialMap=productClusterIds&initialQuery=147&map=category-1,category-2,productClusterIds&order=)",
       "blockClass": "tituoSubCategoria"
     }
   },
@@ -3939,7 +3939,7 @@
   },
   "rich-text#depto6cat3sub2":{
     "props": {
-      "text":"[Maletas](/accesorios/maletas?initialMap=c&initialQuery=accesorios&map=category-1,category-2&order=OrderByReleaseDateDESC)",
+      "text":"[Maletas](/accesorios/maletas/146?initialMap=productClusterIds&initialQuery=147&map=category-1,category-2,productClusterIds&order=)",
       "blockClass": "tituoSubCategoria"
     }
   },
@@ -3956,7 +3956,7 @@
     },
     "rich-text#depto6cat3sub3":{
       "props": {
-        "text":"[Medias](/accesorios/medias?initialMap=c&initialQuery=accesorios&map=category-1,category-2&order=OrderByReleaseDateDESC)",
+        "text":"[Medias](/accesorios/medias/146?initialMap=productClusterIds&initialQuery=147&map=category-1,category-2,productClusterIds&order=)",
         "blockClass": "tituoSubCategoria"
       }
     },
@@ -3973,7 +3973,7 @@
     },
     "rich-text#depto6cat3sub4":{
       "props": {
-        "text":"[Canilleras](/accesorios/canilleras?initialMap=c&initialQuery=accesorios&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
+        "text":"[Canilleras](/accesorios/canilleras/146?initialMap=productClusterIds&initialQuery=147&map=category-1,category-2,productClusterIds&order=)",
         "blockClass": "tituoSubCategoria"
       }
     },
@@ -3990,7 +3990,7 @@
   },
   "rich-text#depto6cat3sub5":{
     "props": {
-      "text":"[Tulas](/tula?order=OrderByReleaseDateDESC)",
+      "text":"[Tulas](/accesorios/tulas/146?initialMap=productClusterIds&initialQuery=147&map=category-1,category-2,productClusterIds&order=)",
       "blockClass": "tituoSubCategoria"
     }
   },
@@ -4037,7 +4037,7 @@
   },
   "rich-text#depto6cat4sub1":{
     "props": {
-      "text":"[Prendas de Arriba](/nino/arriba?initialMap=c&initialQuery=niño&map=category-1,parte&order=OrderByReleaseDateDESC)",
+      "text":"[Prendas de Arriba](/nino/146/arriba?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
       "blockClass": "tituoSubCategoria"
     }
   },
@@ -4054,7 +4054,7 @@
   },
   "rich-text#depto6cat4sub2":{
     "props": {
-      "text":"[Prendas de Abajo](/nino/abajo?initialMap=c&initialQuery=niño&map=category-1,parte&order=OrderByReleaseDateDESC)",
+      "text":"[Prendas de Abajo](/nino/146/abajo?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
       "blockClass": "tituoSubCategoria"
     }
   },
@@ -4099,7 +4099,7 @@
   },
   "rich-text#depto6cat5sub1":{
     "props": {
-      "text":"[Pasto Sintético](/Futsal?order=OrderByReleaseDateDESC)",
+      "text":"[Pasto Sintético](/hombre/zapatos/146?initialMap=c,productClusterIds&initialQuery=hombre/147&map=category-1,category-2,productClusterIds&order=)",
       "blockClass": "tituoSubCategoria"
     }
   },
@@ -4112,12 +4112,12 @@
       "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
     },
     "children": [
-      "rich-text#depto6cat5sub1"
+      "rich-text#depto6cat5sub2"
     ]
   },
   "rich-text#depto6cat5sub2":{
     "props": {
-      "text":"[Futsal-Microfútbol](/Futsal?order=OrderByReleaseDateDESC)",
+      "text":"[Futsal-Microfútbol](/hombre/zapatos/147?initialMap=c,productClusterIds&initialQuery=hombre/147&map=category-1,category-2,productClusterIds&order=)",
       "blockClass": "tituoSubCategoria"
     }
   },
