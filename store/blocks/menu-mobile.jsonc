@@ -1989,20 +1989,20 @@
    //--------------------------------DEPTO 6 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO6-CAT1-SUB1":{
        "props": {
-         "text":"[Prendas de arriba](/hombre/146/arriba?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
+         "text":"[Prendas de arriba](/hombre/146/arriba?initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO6-CAT1-SUB2":{
         "props": {
-          "text":"[Prendas de Abajo](/hombre/146/abajo?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
+          "text":"[Prendas de Abajo](/hombre/146/abajo?initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
 
        "rich-text#MOBILE-DEPTO6-CAT1-SUB3":{
         "props": {
-          "text":"[Ver Todo](/hombre/146?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds&order=)",
+          "text":"[Ver Todo](/hombre/146?initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
         }
        },
@@ -2050,19 +2050,19 @@
    //--------------------------------DEPTO 1 - CAT1 - SUBS
      "rich-text#MOBILE-DEPTO6-CAT2-SUB1":{
        "props": {
-         "text":"[Prendas de arriba](/mujer/146/arriba?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
+         "text":"[Prendas de arriba](/mujer/146/arriba?initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO6-CAT2-SUB2":{
         "props": {
-          "text":"[Prendas de abajo](/mujer/146/abajo?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
+          "text":"[Prendas de abajo](/mujer/146/abajo?initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO6-CAT2-SUB3":{
         "props": {
-          "text":"[Ver todo](/mujer/146?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds&order=)",
+          "text":"[Ver todo](/mujer/146?initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
@@ -2193,19 +2193,19 @@
       //--------------------------------DEPTO 6 - CAT3 - SUBS 
      "rich-text#MOBILE-DEPTO6-CAT4-SUB1":{
        "props": {
-         "text":"[Parte de arriba](/nino/146/arriba?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
+         "text":"[Parte de arriba](/nino/146/arriba?initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
       }
       },
       "rich-text#MOBILE-DEPTO6-CAT4-SUB2":{
         "props": {
-          "text":"[Parte de abajo](/nino/146/abajo?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
+          "text":"[Parte de abajo](/nino/146/abajo?initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds,parte&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO6-CAT4-SUB3":{
         "props": {
-          "text":"[Ver Todo](/nino/146?__device=desktop&initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds&order=)",
+          "text":"[Ver Todo](/nino/146?initialMap=productClusterIds&initialQuery=146&map=category-1,productClusterIds&order=)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
