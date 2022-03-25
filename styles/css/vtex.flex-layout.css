@@ -400,7 +400,7 @@
 .flexRowContent--product .flexColChild :global(.vtex-button) {
   width: 100% !important;
   position: relative;
-  margin: 25px 0 30px;
+  margin: 0px 0 10px;
 }
 .flexRowContent--LineaTresBotones {
   margin: 15px 0;
@@ -450,7 +450,7 @@
 
 .flexCol--Info-Producto-Sticky {
   position: sticky;
-  top: 14%;
+  top: 12%;
   height: fit-content;
 }
 .flexRowContent--product .stretchChildrenWidth {
@@ -583,6 +583,7 @@
 }
 .flexRowContent--product1-info-ESPECI {
   display: flex;
+  align-items: flex-start;
 }
 .flexRowContent--product1-info-ESPECI .stretchChildrenWidth {
   width: 50% !important;

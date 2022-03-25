@@ -110,7 +110,7 @@
     /*"product-separator",
     "modal-trigger#example",*/
     "add-to-cart-button#BotonComprarCheck",
-    "rich-text#personalizacionBoton",
+    /*"rich-text#personalizacionBoton",*/
     "flex-layout.row#LINEAtRESbOTONES"
   ]
 },

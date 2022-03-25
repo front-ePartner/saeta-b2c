@@ -382,6 +382,9 @@
 .specificationName--especificacionesINFO-TITULO1[data-specification-name="Genero"] {display: none;}
 .specificationValue--EspecificacionesINFO1[data-specification-name="descripcion-esp"] {display: none;}
 .specificationName--especificacionesINFO-TITULO1[data-specification-name="descripcion-esp"] {display: none;}
+.specificationValue--EspecificacionesINFO1[data-specification-name="Horma"] {display: none;}
+.specificationName--especificacionesINFO-TITULO1[data-specification-name="Horma"] {display: none;}
+
 
 
 
@@ -408,19 +411,16 @@
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="Color"] {display: none;}
 .specificationValue--EspecificacionesINFO2[data-specification-name="Genero"] {display: none;}
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="Genero"] {display: none;}
-.specificationValue--EspecificacionesINFO2[data-specification-name="Horma"] {display: none;}
-.specificationName--especificacionesINFO-TITULO2[data-specification-name="Horma"] {display: none;}
 .specificationValue--EspecificacionesINFO2[data-specification-name="Deporte"] {display: none;}
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="Deporte"] {display: none;}
 .specificationValue--EspecificacionesINFO2[data-specification-name="Subcategoria"] {display: none;}
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="Subcategoria"] {display: none;}
 .specificationValue--EspecificacionesINFO2[data-specification-name="Coleccion"] {display: none;}
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="Coleccion"] {display: none;}
-.specificationValue--EspecificacionesINFO2[data-specification-name="Actividad"] {display: none;}
-.specificationName--especificacionesINFO-TITULO2[data-specification-name="Actividad"] {display: none;}
 .specificationValue--EspecificacionesINFO2[data-specification-name="descripcion-esp"] {display: none;}
 .specificationName--especificacionesINFO-TITULO2[data-specification-name="descripcion-esp"] {display: none;}
-
+.specificationValue--EspecificacionesINFO2[data-specification-name="Actividad"] {display: none;}
+.specificationName--especificacionesINFO-TITULO2[data-specification-name="Actividad"] {display: none;}
 
 
 
@@ -433,7 +433,7 @@
 .specificationValue--EspecificacionesINFO3[data-specification-name="Tecnologia 2"] {display: none;}
 .specificationName--especificacionesINFO-TITULO3[data-specification-name="Tecnologia 2"] {display: none;}
 .specificationValue--EspecificacionesINFO3[data-specification-name="Tecnologia 3"] {display: none;}
-.specificationName--especificacionesINFO-TITULO3[data-specification-name="Tecnologia 3+-"] {display: none;}
+.specificationName--especificacionesINFO-TITULO3[data-specification-name="Tecnologia 3"] {display: none;}
 .specificationName--especificacionesINFO-TITULO3[data-specification-name="parte"][data-specification-name="Tecnologia 3"] {display: none;}
 .specificationValue--EspecificacionesINFO3[data-specification-name="IMG-tecnologia1"] {display: none;}
 .specificationName--especificacionesINFO-TITULO3[data-specification-name="IMG-tecnologia1"] {display: none;}
