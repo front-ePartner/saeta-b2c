@@ -850,17 +850,22 @@
       },
       "rich-text#MOBILE-DEPTO2-CAT2-SUB2":{
         "props": {
-          "text":"[Shorts](/mujer/short?_c=mujer&map=c,ft&order=OrderByReleaseDateDESC)",
+          "text":"[Pantalonetas](/mujer/short?_c=mujer&map=c,ft&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
        "rich-text#MOBILE-DEPTO2-CAT2-SUB3":{
         "props": {
+          "text":"[Shorts](/mujer/leggings?initialMap=c&initialQuery=mujer&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
+         "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
+       }
+       },
+       "rich-text#MOBILE-DEPTO2-CAT2-SUB4":{
+        "props": {
           "text":"[leggings](/mujer/leggings?initialMap=c&initialQuery=mujer&map=category-1,subcategoria&order=OrderByReleaseDateDESC)",
          "blockClass": "MENU-NIVEL-DEPTO-CAT-SUB"
        }
        },
-     
 
        "rich-text#MOBILE-DEPTO2-CAT2-SUB6":{
         "props": {

@@ -1209,6 +1209,7 @@
     "children": [
       "flex-layout.col#Deptos2Cat2Sub1",
       "flex-layout.col#Deptos2Cat2Sub2",
+      "flex-layout.col#Deptos2Cat2Sub4",
       "flex-layout.col#Deptos2Cat2Sub3",
   
       "image#imagenparamenu2"
@@ -1227,7 +1228,7 @@
   },
   "rich-text#depto2cat2sub1":{
     "props": {
-      "text":"[Shorts](/mujer/shorts?initialMap=c&initialQuery=mujer&map=category-1,category-2&order=OrderByReleaseDateDESC)",
+      "text":"[Pantalonetas](/mujer/shorts?initialMap=c&initialQuery=mujer&map=category-1,category-2&order=OrderByReleaseDateDESC)",
       "blockClass": "tituoSubCategoria"
     }
   },
@@ -1278,7 +1279,7 @@
   },
   "rich-text#depto2cat2sub4":{
     "props": {
-      "text":"[Ropa Interior](/mujer/shorts?initialMap=c&initialQuery=mujer&map=category-1,category-2&order=OrderByReleaseDateDESC)",
+      "text":"[Short](/mujer/shorts?initialMap=c&initialQuery=mujer&map=category-1,category-2&order=OrderByReleaseDateDESC)",
       "blockClass": "tituoSubCategoria"
     }
   },
