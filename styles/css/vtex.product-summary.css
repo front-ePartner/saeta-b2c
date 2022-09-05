@@ -377,8 +377,9 @@
   padding: 0;
 }
 .productPriceClass.productPriceClass--newprice.price_className.price_className--newprice {
-  position: unset;
+  position: unset !important;
 }
+
 }
 
 
