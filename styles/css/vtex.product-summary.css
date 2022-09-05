@@ -260,8 +260,60 @@
   padding: 0;
 }
 
+.containerNormal .price_listPrice--newprice .currencyContainer--newprice {
+  font-size: 15px;
+  left: 0;
+  position: relative;
+}
+.productPriceClass.productPriceClass--newprice.price_className.price_className--newprice {
+  position: relative;
+  left: 0;
+  width: 100%;                                                                                                                                                                                                                                                       
+  text-align: left;
+}
+.containerNormal .price_listPriceContainer--newprice {
+  width: 100%;
+  position: relative;
+  left: 3%;
+  margin: 0 0 -3px 0;
+}
+.containerNormal .priceContainer.priceContainer--newprice {
+  padding: 0;
+  opacity: 1;
+  height: 25px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  margin: 0px 0 0px;
+}
 
 
+
+
+:global(.vtex-search-result-3-x-galleryItem--normal) .price_listPrice--newprice .currencyContainer--newprice {
+  font-size: 15px;
+  left: 0;
+  position: relative;
+}
+:global(.vtex-search-result-3-x-galleryItem--normal) .productPriceClass.productPriceClass--newprice.price_className.price_className--newprice {
+  position: relative;
+  left: 0;
+  width: 100%;                                                                                                                                                                                                                                                       
+  text-align: left;
+}
+:global(.vtex-search-result-3-x-galleryItem--normal) .price_listPriceContainer--newprice {
+  width: 100%;
+  position: relative;
+  left: 3%;
+  margin: 0 0 -3px 0;
+}
+:global(.vtex-search-result-3-x-galleryItem--normal) .priceContainer.priceContainer--newprice {
+  padding: 0;
+  opacity: 1;
+  height: 25px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  margin: 0px 0 0px;
+}
 
 
 
@@ -324,7 +376,9 @@
 .containerNormal--vitrinaSelectorColor {
   padding: 0;
 }
-
+.productPriceClass.productPriceClass--newprice.price_className.price_className--newprice {
+  position: unset;
+}
 }
 
 
